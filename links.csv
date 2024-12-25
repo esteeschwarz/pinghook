@@ -1,0 +1,143 @@
+h1,url,desc
+whiteboard,<https://mycampus.imp.fu-berlin.de/x/UxPj6c>, #10283
+mensa pinnwand FUB,<https://userblogs.fu-berlin.de/mensapinnwand>, modus in development
+BAS webservices,<https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface>, speech signals processing
+diff match patch,<https://neil.fraser.name/software/diff_match_patch/demos/diff.html>, compare text tool. cf: [cdnjs](https://cdnjs.com/libraries/diff_match_patch)
+gephi](https://gephi.org) / [cytoscape,<https://cytoscape.org/download.html>, network analysis tools
+text processing API,<http://text-processing.com>, natural language analysis APIs
+DTA cab,<https://www.deutschestextarchiv.de/public/cab/file>," deutsches textarchiv, tokenizer"
+voyant tools,<https://voyant-tools.org>, online text analysis
+MAXQDA](#) qualitative data analysis / [alternatives,<https://alternativeto.net/software/maxqda/>, / [taquette](https://www.taguette.org/getting-started.html)
+forTEXT,<https://fortext.net/routinen/methoden/stilometrie>, stilometrie
+reaktanz,"<https://reaktanz.de/?c=hacking&s=koRpus) R-packages (NLP, psych, various>", 
+GoldVarb,<https://albuquerque.bioinformatics.uottawa.ca/lab/software.html>," variable coding, predictability, statistics"
+easy linavis,<https://exit.rotefadenbuecher.de/uni/public/ezlinavis/>, netzwerkvisualisierung
+shiny dracor,<https://shiny.dracor.org>, drama networks
+AntConc,<http://www.laurenceanthony.net/software/antconc/>, laurence anthony corpus analysis tool
+ELAN](https://archive.mpi.nl/tla/elan) / [EXMARALDA,<https://exmaralda.org>, annotation / transkriptionssoftware
+language archive,<https://archive.mpi.nl/tla/accepted-metadata>, on CMDI metadata (ELAN)
+treetagger,<https://cis.uni-muenchen.de/~schmid/tools/TreeTagger/>, 
+RFTagger,<https://www.cis.lmu.de/~schmid/tools/RFTagger/>, 
+stanfordNLP,<https://nlp.stanford.edu/software/tagger.shtml>, PoS tagging tools
+WebLicht,<https://weblicht.sfs.uni-tuebingen.de/weblicht/>, NLP toolchains for e.g. EXMARaLDA PoS tagging etc.
+DURM,<https://www.semanticsoftware.info/durm-german-lemmatizer>, german lemmatizer
+stanford parser,<http://nlp.stanford.edu:8080/parser/>, NO. \> [this repo](https://github.com/stanfordnlp/CoreNLP)
+IPA](https://ipa.typeit.org/full/) / [2nd,<https://westonruter.github.io/ipa-chart/keyboard/>,… / phonetic transcription
+ELL,<https://dbis.ur.de/detail.php?bib_id=fub&colors=&ocolors=&lett=fs&tid=0&titel_id=6277) Encyclopedia Language and Linguistics (Elsevier 2006>, (VPN!)
+GRAMMIS,<https://grammis.ids-mannheim.de/progr@mm/4055>, IDS
+glottolog,<https://glottolog.org>, catalogue of languages and families
+REDE,<https://www.regionalsprache.de>, regionalsprachenatlas D
+AADG,<https://prowiki.ids-mannheim.de//bin/view/AADG/WebHome>, IDS - Atlas zur Aussprache des deutschen Gebrauchsstandards
+linguistic atlas project,<https://linguisticatlasproject.org>, LANE
+GAIS,<http://prowiki.ids-mannheim.de/bin/view/GAIS/TranskriptionIndex>, transkriptionsindex
+GATE,<https://gate.ac.uk/sale/tao/index.html>, NLP framework
+Carto Dialect,<http://lig-tdcge.imag.fr/cartodialect5/#/>, atlas linguistique de france
+bookdown,<https://bookdown.org/yihui/rmarkdown/>, RMarkdown compendium
+mdbook,<https://rust-lang.github.io/mdBook/guide/installation.html>, simple but great markdown book creator
+rust manual,<https://doc.rust-lang.org/book/title-page.html>, / [crates](https://crates.io)
+pypi,<https://pypi.org>, python package index
+REPL.IT](https://replit.com/@JuliaNakotte/rainbow-poem#main.py) / [codepen](https://codepen.io) / [jsfiddle,<https://jsfiddle.net/p3osqrdn/>, program space
+redirect.li](https://redirect.li) / [ip2locationlite,<https://www.ip2location.io/#ip2locationlite>, IP info
+OXYGEN,<https://www.oxygenxml.com/forum/>, oxygen xml-editor forum
+rextester,<https://rextester.com/IXOWO88708>, -//-
+sage dictionary of statistics,<https://methods.sagepub.com/reference/the-sage-dictionary-of-statistics>, (fu vpn)
+pealim,<https://www.pealim.com/search/?q=%D7%A9%D7%A2%D7%A9%D7%A2>, ivrit
+morfix.il,<https://www.morfix.co.il/%D7%9E%D7%99%D7%97%D7%93%D7%95%D7%AA>, ivrit
+plattdeutsches wörterbuch,<http://neon.niederlandistik.fu-berlin.de/de/plattdeutsch/wb?such=wichel>, ...wörterbuch der westmünsterländischen mundart
+friesisch.net,<https://www.friesisch.net>, nordfriesisches onlinewörterbuch
+D-Place,<https://d-place.org>," Database of Places, Language, Culture and Environment"
+pantheon,<https://pantheon.world>, wikipedia stats visualisation
+OES,<https://github.com/open-encyclopedia-system/>," open encyclopedia system, [platform](https://www.open-encyclopedia-system.org/about-OES/using_oes/index.html)"
+SSH open marketplace,<https://marketplace.sshopencloud.eu>, DH portal
+transkribus,<https://readcoop.eu/transkribus>, OCR
+escriptorium,<https://gitlab.com/scripta/escriptorium>, OCR
+kraken,<https://kraken.re/main/index.html>, OCR
+SoSci survey,<https://www.soscisurvey.de/admin/index.php>," umfragetool, komplex"
+votingo FUB,<https://votingo.cedis.fu-berlin.de>," umfragetool, simple"
+PINGO,"<https://pingo.coactum.de/ ""PINGO"">", -//-
+ANNIS,<https://corpus-tools.org/annis/>, corpus framework
+CWB,<https://cwb.sourceforge.io>," IMS corpus workbench, CQP... (install, tutorials etc.)"
+sketch engine](https://auth.sketchengine.eu/#login) [no.sketch.engine,<https://nlp.fi.muni.cz/trac/noske>, korpus DB
+UCSB santa barbara corpus,<https://www.linguistics.ucsb.edu/research/santa-barbara-corpus>, of spoken american english
+NY Times Archive,<https://fu-berlin.primo.exlibrisgroup.com/permalink/49KOBV_FUB/1v1tp5h/alma9961302613102883>, institutional account registration needed
+DTA,<https://www.deutschestextarchiv.de>, deutsches textarchiv
+BNC web,<http://bncweb.lancs.ac.uk/cgi-binbncXML/BNCquery.pl?theQuery=search&urlTest=yes>,  
+BAS clarin LMU,<https://clarin.phonetik.uni-muenchen.de/BASRepository/>," archive for speech signals, institutszugang"
+MoCoDa](http://mocoda.spracheinteraktion.de/?site=suche) [actuel,<https://db.mocoda2.de/c/home>, mobile communication database
+tweepy,<https://docs.tweepy.org/en/stable/getting_started.html>, fetch twitter data
+Corpus of Contemporary American English (COCA),"<https://www.english-corpora.org/coca/ ""Corpus of Contemporary American English (COCA>",""")"
+KIDKO,<https://corpora.uni-hamburg.de/annis/kidko>, uni hamburg kiezdeutschcorpus
+MERLIN,<https://www.merlin-platform.eu/#>, learner corpus
+CHLG](https://www.chlg.ugent.be/corpus/) corpus of historical low german. (CQL \> [man,<https://corpussearch.sourceforge.net/CS-manual/SearchFunctions.html>,)
+RAE,"<http://corpus.rae.es/creanet.html ""corpus.rae.es/creanet.html"">", corpus spanisch
+DGD,<https://dgd.ids-mannheim.de/>, mannheim. corpus-datenbank für gesprochenes deutsch.
+netzschleuder](https://networks.skewed.de) / [konect.cc,<http://konect.cc>, networks repositories
+GaGa,<https://www.gaga.net/pgdp/default.php>, :gemeinsam an gutenberg arbeiten:
+"COST-ELTeC](https://distantreading.github.io/ELTeC/), (linktree [1](https://lipogg.github.io/textanalyse-mit-r/exkurs-xml-tei-und-xpath.html#wo-findet-man-korpora-die-in-xml-tei-ausgezeichnet-sind) / [2",<https://github.com/COST-ELTeC/ELTeC>,)
+DraCOR,<https://dracor.org>," drama corpora, multiL"
+yiddishbookcenter](https://www.yiddishbookcenter.org/collections) \> [ocr,<https://ocr.yiddishbookcenter.org/accounts/login/>, Steven Spielberg Digital Yiddish Library
+wikisource,<https://de.wikisource.org/wiki/Index:Koller_-_Der_Zauberstein.pdf>, textedition
+DWDS,<https://dwds.de>, digitales wörterbuch der deutschen sprache
+invenio framework,<https://invenio.readthedocs.io/en/latest/getting-started/quickstart/installation.html#create-an-invenio-instance>," desperately trying to build up archive, NO."
+macht.sprache,<https://www.machtsprache.de/>, englisch/deutsche übersetzung prekärer begriffe
+denkmaldatenbank,<http://www.stadtentwicklung.berlin.de/denkmal/liste%5C_karte%5C_datenbank/de/denkmaldatenbank/>, berlin
+swisscollections,<https://swisscollections.ch>, portal swiss bib / archive
+ferring stiftung,<https://ferring-stiftung.de/inselarchive/archiv/>, archiv der inseln amrum und föhr.
+w.g. sebald lexikon,<http://www.wgsebald.de>, #73284.
+sammeln,<https://sammeln.hypotheses.org/category/was-sind-sammlungen>, wissenschaftlicher objekte.
+HIDAweb,<http://www.landesarchiv-berlin-bilddatenbank.de/hida4web-LAB/search?browse-all=yes>, landesarchiv berlin bilddatenbank
+archivar,<http://www.archive.nrw.de/archivar/index.html>, zeitschrift
+archivschule,<https://www.archivschule.de/uploads/Forschung/ArchivwissenschaftlicheTerminologie/Terminologie.html>, terminologie
+LEObw,<https://www.leo-bw.de/themenmodul/sudwestdeutsche-archivalienkunde/archivaliengattungen/sammlungen>, landeskunde entdecken online. zb: sammlungen.
+AAD,<https://archiv.diplo.de/arc-de/das-politische-archiv>, politisches archiv des auswärtigen amts.
+KALLIOPE,<https://kalliope-verbund.info/de/ueber-kalliope/historie.html>, nachlässe im verbund suchen.
+HARVARD dataverse,<https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/L4OAKN&version=1.0>, zb. parlamentsreden
+zotero,<https://www.zotero.org/support/beta_builds>, bibliography tool
+hypotheses,<https://reticular.hypotheses.org/1745>, academic blogs
+hathi trust,<https://catalog.hathitrust.org/Record/009802727>, digital library
+ZENODO,<https://www.zenodo.org>, research base
+stabi,<https://digital.staatsbibliothek-berlin.de>, 
+ULB sachsen-anhalt,<http://digital.bibliothek.uni-halle.de/hd/>, 
+goethe uni frankfurt,<http://sammlungen.ub.uni-frankfurt.de>, 
+voebb.de,<https://voebb.de>, homepage verbund öffentlicher bibliotheken in BLN
+ingenta open,<https://www.ingentaopen.com/content/journals/22351272/28/2>, zeitschrift für germanistik etc.
+kanopy,<https://fuberlin.kanopy.com/video/linguists-3>, science video platform
+mediating modern poetry,<https://mmp.mml.ox.ac.uk>," oxford, karen leeder"
+weltliteratur,<https://weltliteratur.net>, :black market for the digital humanities:
+OSF,<https://osf.io>, open research platform
+Lacan entziffern,<https://lacan-entziffern.de/anderer/metapher-und-metonymie/>, rolf nemitz
+HiFoS,<http://www.hifos.uni-trier.de/index.html>," Projekt ""Historische Formelhafte Sprache und Traditionen des Formulierens"""
+Germanistik...,<https://www.germanistik-im-netz.de/recherchieren/datenquellen/>, ...im Netz.
+literaturwissenschaft...,<http://www.einladung-zur-literaturwissenschaft.de/index.html>, ...einladung zur.
+CLIO-online,<https://www.clio-online.de>, fachportal für geschichte und geschichtswissenschaften.
+synergiewissen,<https://www.zflprojekte.de/synergie/doku.php>, WIKI open acces lexikon.
+ZFL,<https://www.zfl-berlin.org/das-zfl.html>, leibniz zentrum für literatur- und kulturforschung berlin.
+GIB,<http://www.gib.uni-tuebingen.de/netzwerk/glossar/index.php?title=GIB_-_Glossar_der_Bildphilosophie:Portal>, glossar der bildphilosophie (uni tübingen)
+ada fruit,<https://learn.adafruit.com/minty-boost/icharging>, mint tech
+GitLab,<https://gitlab.informatik.uni-halle.de/explore/projects?non_archived=true&page=6&sort=latest_activity_desc>, git uni halle
+destatis DB,<https://www-genesis.destatis.de/genesis/online>, statistisches bundesamt
+EDQM,<https://www.edqm.eu/en/knowledge-database>, knowledge database pharmacy
+HiSoN,<https://hison.org>, historical sociolinguistics network
+jacobin/ada,<https://jacobin.de/>, socialist online magazine
+translationista,<https://translationista.com/2022/09/notes-from-the-magic-mountain-9-12-22.html>, s. bernofsky
+onur solmaz,<https://solmaz.io>, tech alii blog
+fabrikzeitung,<https://www.fabrikzeitung.ch/still-jenny-from-the-block/#>, CH
+lfb,<https://lfbrecht.de/events/>, literaturforum im brechthaus
+IKA wien,<https://ika.akbild.ac.at>, institut für kunst und architektur
+herrndorf,<https://www.wolfgang-herrndorf.de>, arbeit und struktur
+UNI AK wien,<https://sprachkunst.uni-ak.ac.at>, institut für sprachkunst der universität für angewandte kunst wien
+ERB,<https://europeanreviewofbooks.com>," european review of book, yet to be funded"
+exit shabbes,<https://userblogs.fu-berlin.de/exitshabbes>, diskurspartikel enter/exit shabbes
+sanfte zerstörung,<https://sanfte-zerstoerung.de/index.php>, gendergaga 4u
+alles dicht,<https://allesdichtmachen.de>, online theaterpremieren
+Ctrl+Alt+Dem,<https://alternative-democracy-research.org>, Jan Blommaert's research blog
+letters from an american,<https://heathercoxrichardson.substack.com>, heather cox richardson
+kon paper,<https://kon-paper.com>, zeitschrift
+intrige,<https://intrige.ch>, magazin für junges theater
+sarah raich,<https://www.sarah-raich.de/die-fehlenden-buecher>, autorin
+wochendämmerung,<https://wochendaemmerung.de>, BLN world view
+christina fjeldavlino,<https://christinafjeldavlino.home.blog>, blog norge
+sprachlog,<http://www.sprachlog.de/2011/12/14/frauen-natuerlich-ausgenommen/>, a. stefanowitsch
+b**books,<http://www.b-books.de/share.htm>,**
+lauter niemand,<http://www.lauter-niemand.de>, literaturlabor
+anwesenheitsnotiz,<https://anwesenheitsnotizen.wordpress.com/2020/03/25/onlinequellen%5C_fuer%5C_hausarbeiten>, linksammlung für uniarbeitenvonzuhause.
