@@ -1,31 +1,32 @@
-# Load necessary library
 library(readr)
 
-# Define the path to the Markdown file
 md_file <- "/Users/guhl/Documents/GitHub/pinghook/pinghook.md"
 
-# Read the Markdown file
 md_content <- readLines(md_file)
-
-# Extract links and descriptions using a regular expression
+md_content
 links <- regmatches(md_content, gregexpr("\\[([^\\]]+)\\]\\(([^\\)]+)\\)", md_content))
-
-# Flatten the list and remove empty elements
+links <- regmatches(md_content, gregexpr("\\[(.+)\\]\\((.+)\\)(.+)", md_content))
+#linksrep<-
+links[25]
+l1<-strsplit(links[[25]],"]\\(")
+l1<-unlist(l1)
+l1
+l2<-data.frame(
+  titles = gsub(".+?\\[(.+)", "\\1",l1),
+  refs =   gsub("(.+)\\.+?","<\\1>",l1),
+  desc =   gsub(".+?\\)(.+)", "\\1",l1),
+  stringsAsFactors = FALSE)
+l2
 links <- unlist(links)
 links <- links[links != ""]
-
-# Create a data frame from the extracted links
 link_data <- data.frame(
-  Description = gsub("\\[([^\\]]+)\\]\\(([^\\)]+)\\)", "\\1", links),
-  URL = gsub("\\[([^\\]]+)\\]\\(([^\\)]+)\\)", "\\2", links),
+  h1 = gsub("\\[(.+)\\]\\(([^\\)].+)\\)(.+)", "\\1", links),
+  url = gsub("\\[(.+)\\]\\((.+)\\)(.+)", "<\\2>", links),
+  desc = gsub("\\[(.+)\\]\\((.+)\\)(.+)", "\\3", links),
   stringsAsFactors = FALSE
 )
+#link_data$further =  gsub("\\[(.+)\\]\\((.+)\\)(.+)", "\\2", link_data$desc)
 
-# Define the path to the CSV file
 csv_file <- "/Users/guhl/Documents/GitHub/pinghook/links.csv"
 
-# Write the data frame to a CSV file
 write_csv(link_data, csv_file)
-
-# Print the data frame
-print(link_data)

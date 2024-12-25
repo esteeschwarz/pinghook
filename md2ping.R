@@ -1,7 +1,7 @@
 library(stringi)
-t<-readLines("regexcheck.md")
+#t<-readLines("regexcheck.md")
 t<-readLines("13123.ada.pinghook.md")
-t
+t<-readLines("pinghook.md")
 #regx<-"\\[(.*?)\\]\\((.*?)\\) ?((?!#).+?)?"
 test<-function(t,regx,repl){
 
@@ -69,7 +69,7 @@ t6<-gsub(",","::",t6)
 t.sem<-stri_split_regex(t6,";",simplify = T)
 colnames(t.sem)<-t.sem[1,]
 t.sem<-t.sem[2:length(t.sem[,1]),]
-write.csv(t.sem,"pinghook.r.csv",sep = ",")
+write.csv(t.sem,"links.csv",sep = ",")
 t6.md<-knitr::kable(t.sem)
 
 # 
