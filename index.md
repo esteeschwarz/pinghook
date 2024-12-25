@@ -1,9 +1,9 @@
-<link rel="stylesheet" type="text/css" href="https://rotefadenbuecher.de/css/style.css">
+<!--<link rel="stylesheet" type="text/css" href="https://rotefadenbuecher.de/css/style.css">-->
 
-| [home](index.md) | [page 2](002.md) | [page 3](003.html) | [code repository](https://github.com/esteeschwarz/joni-tut) |
+| [home](index.md) | [pinghook](pinghook.md) | [page 3](no-page) | [code repo](https://github.com/esteeschwarz/pinghook) |
 | :- | :- | :- | :- |
 
-###### tree: top / pages / [002](002.md)
+###### tree: top / pages / [index](index.md)
 this is page 2. also no content..., create some. for example a [link](index_sf.html) to another page.   
 or see how `codeblocks` look:   
 
@@ -16,7 +16,7 @@ print (text)
 this should be displayed as a codeblock.   
 now for a table which we can use as menu:
 
-| [home](index.md) | [page 2](pinghook.md) | [page 3](README.md) | [code repository](https://github.com/esteeschwarz/pinghook) |    
+| [home](index.md) | [ping](pinghook.md) | [page 3](README.md) | [code repository](https://github.com/esteeschwarz/pinghook) |    
 | :- | :- | :- | :- |
 
 
