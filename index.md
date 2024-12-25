@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="https://rotefadenbuecher.de/css/style.css">
+
 | [home](index.md) | [page 2](002.md) | [page 3](003.html) | [code repository](https://github.com/esteeschwarz/joni-tut) |
 | :- | :- | :- | :- |
 
