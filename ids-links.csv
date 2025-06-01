@@ -1,311 +1,311 @@
 title;category;desc;url
-whiteboard;content; #10283;https://mycampus.imp.fu-berlin.de/x/UxPj6c
-blackboard;content;;https://fu-berlin.blackboard.com/webapps/
-PRIMO;content;;https://fu-berlin.primo.exlibrisgroup.com/discovery/search?vid=49KOBV_FUB:FUB
-KVV FUB;content;;https://www.fu-berlin.de/vv/de/fb
-KVV potsdam;content;;https://puls.uni-potsdam.de/qisserver/rds?state=wtree&search=1&category=veranstaltung.browse&topitem=lectures&subitem=lectureindex&breadcrumb=lectureindex
-KVV HUB;content;;https://agnes.hu-berlin.de/lupo/rds?state=wtree&search=1&category=veranstaltung.browse&navigationPosition=functions%2Clectureindex&breadcrumb=lectureindex&topitem=functions&subitem=lectureindex
-userpage DAV;content;;https://webdav.zedat.fu-berlin.de
-TWL;content;;https://wholelifeacademy.hkw.de/index.php/apps/circles/
-FU wiki;content;;https://wikis.fu-berlin.de/spacedirectory/view.action
-FU videopool;content;;https://fu-berlin.eu.vbrickrev.com/#/media/all
-mensa pinnwand FUB;content; modus in development;https://userblogs.fu-berlin.de/mensapinnwand
-MongoDB;content;;https://cloud.mongodb.com
-wetter corbusierhaus;content;;https://www.ecowitt.net/home/share?authorize=TWXHM3
-BAS webservices;linguistics; speech signals processing;https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface
-diff match patch;linguistics; compare text tool. cf: ;https://neil.fraser.name/software/diff_match_patch/demos/diff.html
-cdnjs;linguistics;;https://cdnjs.com/libraries/diff_match_patch
-gephi;linguistics;;https://gephi.org
-cytoscape;linguistics; network analysis tools;https://cytoscape.org/download.html
-text processing API;linguistics; natural language analysis APIs;http://text-processing.com
-DTA cab;linguistics; deutsches textarchiv / tokenizer;https://www.deutschestextarchiv.de/public/cab/file
-voyant tools;linguistics; online text analysis;https://voyant-tools.org
-MAXQDA;linguistics; qualitative data analysis;https://www.maxqda.com/de/
-MAXQDA alternatives;linguistics;;https://alternativeto.net/software/maxqda/
-taguette;linguistics;;https://www.taguette.org/getting-started.html
-forTEXT;linguistics; stilometrie;https://fortext.net/routinen/methoden/stilometrie
-reaktanz;linguistics; R-packages (NLP / psych / various) ;https://reaktanz.de/?c=hacking&s=koRpus
-GoldVarb;linguistics; variable coding, predictability, statistics;https://albuquerque.bioinformatics.uottawa.ca/lab/software.html
-easy linavis;linguistics; netzwerkvisualisierung;https://exit.rotefadenbuecher.de/uni/public/ezlinavis/
-shiny dracor;linguistics; drama networks;https://shiny.dracor.org
-AntConc;linguistics; laurence anthony corpus analysis tool;http://www.laurenceanthony.net/software/antconc/
-ELAN;linguistics;;https://archive.mpi.nl/tla/elan
-EXMARALDA;linguistics; annotation / transkriptionssoftware;https://exmaralda.org
-language archive;linguistics;;https://archive.mpi.nl/tla/accepted-metadata) on CMDI metadata (ELAN
-CMDI maker;linguistics;;https://cmdi-maker.uni-koeln.de
-jsSyntaxTree;linguistics;;http://www.ironcreek.net/syntaxtree/
-treetagger;linguistics; ;https://cis.uni-muenchen.de/~schmid/tools/TreeTagger/
-RFTagger;linguistics; ;https://www.cis.lmu.de/~schmid/tools/RFTagger/
-stanfordNLP;linguistics; PoS tagging tools;https://nlp.stanford.edu/software/tagger.shtml
-WebLicht;linguistics; NLP toolchains for e.g. EXMARaLDA PoS tagging etc.;https://weblicht.sfs.uni-tuebingen.de/weblicht/
-DURM;linguistics; german lemmatizer;https://www.semanticsoftware.info/durm-german-lemmatizer
-laurence anthony TagAnt;linguistics;;https://www.laurenceanthony.net/software/tagant/
-stanford parser](http://nlp.stanford.edu:8080/parser/) NO. \> [this repo;linguistics;;https://github.com/stanfordnlp/CoreNLP
-TEI conversion;linguistics;;https://oxgarage2.tei-c.org/
-IPA;linguistics;;https://ipa.typeit.org/full/
-IPA;linguistics;… / phonetic transcription;https://westonruter.github.io/ipa-chart/keyboard/
-R string processing;linguistics;;https://stringi.gagolewski.com
-SIL glossary of linguistic terms;linguistics;;https://glossary.sil.org/term
-ELL;linguistics;;https://dbis.ur.de/detail.php?bib_id=fub&colors=&ocolors=&lett=fs&tid=0&titel_id=6277) Encyclopedia Language and Linguistics (Elsevier 2006) (VPN!
-Sprachtheorie;linguistics;;https://www.christianlehmann.eu/ling/ling_theo/index.html
-online dictionaries linguistics;linguistics;;http://mmmann.de/Sprache/online-wbb-ling.html
-GRAMMIS;linguistics; IDS;https://grammis.ids-mannheim.de/progr@mm/4055
-living handbook of narratology;linguistics;;http://www.lhn.uni-hamburg.de/contents.html
-WALS world atlas of language structures;linguistics;;https://wals.info/feature/67A#2/25.5/148.2
-glottolog;linguistics; catalogue of languages and families;https://glottolog.org
-REDE;linguistics; regionalsprachenatlas D;https://www.regionalsprache.de
+-//- ocr;arkkiv; Steven Spielberg Digital Yiddish Library;https://ocr.yiddishbookcenter.org/accounts/login/
+AAD;arkkiv; politisches archiv des auswärtigen amts.;https://archiv.diplo.de/arc-de/das-politische-archiv
 AADG;linguistics; IDS - Atlas zur Aussprache des deutschen Gebrauchsstandards;https://prowiki.ids-mannheim.de//bin/view/AADG/WebHome
-linguistic atlas project;linguistics; LANE;https://linguisticatlasproject.org
-GAIS;linguistics; transkriptionsindex;http://prowiki.ids-mannheim.de/bin/view/GAIS/TranskriptionIndex
-GATE;linguistics; NLP framework;https://gate.ac.uk/sale/tao/index.html
-Carto Dialect;linguistics; atlas linguistique de france;http://lig-tdcge.imag.fr/cartodialect5/#/
-William Labov;linguistics;;https://www.ling.upenn.edu/~wlabov/
-stackoverflow;tech;;https://stackoverflow.com/questions
-markdown comp;tech;;https://spec.commonmark.org/0.30/
+ACUD.kook.read;LIT/ART/CON/CAL;;https://acudmachtneu.de/spaces/studio/
+ada fruit;EXKURS; mint tech;https://learn.adafruit.com/minty-boost/icharging
+afsnit P;LIT/ART/CON/CAL;;https://afsnitp.dk/galleri/archiveszaroum/
+alles dicht;LIT/ART/CON/CAL; online theaterpremieren;https://allesdichtmachen.de
+ann quinn. eye of the storm.;LIT/ART/CON/CAL;;https://annquinn.org/eye-of-the-storm-vai/
+ANNIS;corpusLX; corpus framework;https://corpus-tools.org/annis/
+AntConc;linguistics; laurence anthony corpus analysis tool;http://www.laurenceanthony.net/software/antconc/
+anwesenheitsnotiz;LIT/ART/CON/CAL; linksammlung für uniarbeitenvonzuhause.;https://anwesenheitsnotizen.wordpress.com/2020/03/25/onlinequellen%5C_fuer%5C_hausarbeiten
+aporee soundscapes;arkkiv;;https://aporee.org/maps/
+archivar;arkkiv; zeitschrift;http://www.archive.nrw.de/archivar/index.html
+archive.org;primaere;;https://archive.org/details/diekrisisdereuro00pann/
+archivportal D;arkkiv;;https://www.archivportal-d.de
+archivschule;arkkiv; terminologie;https://www.archivschule.de/uploads/Forschung/ArchivwissenschaftlicheTerminologie/Terminologie.html
+arsenal;arkkiv;;http://films.arsenal-berlin.de/index.php
+ausland bln;LIT/ART/CON/CAL;;https://ausland-berlin.de
+b-books;LIT/ART/CON/CAL;;http://www.b-books.de/share.htm
+BAS clarin LMU;corpusLX; archive for speech signals, institutszugang;https://clarin.phonetik.uni-muenchen.de/BASRepository/
+BAS webservices;linguistics; speech signals processing;https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface
+blackboard;content;;https://fu-berlin.blackboard.com/webapps/
+BNC web;corpusLX;  ;http://bncweb.lancs.ac.uk/cgi-binbncXML/BNCquery.pl?theQuery=search&urlTest=yes
 bookdown;tech; RMarkdown compendium;https://bookdown.org/yihui/rmarkdown/
-mdbook;tech; simple but great markdown book creator;https://rust-lang.github.io/mdBook/guide/installation.html
-pandoc manual;tech;;https://pandoc.org/MANUAL.html
-wikimedia API;tech;;https://de.wikisource.org/w/api.php
-wikimedia extensions;tech;;https://www.mediawiki.org/wiki/Manual:Extensions
-CSS comp;tech;;https://developer.mozilla.org/de/docs/Web/CSS/float
-regex quick;tech;;https://ahkde.github.io/docs/misc/RegEx-QuickRef.htm#Common
-regex compend;tech;;https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap09.html
-ICU;tech;;https://unicode-org.github.io/icu/userguide/strings/regexp.html
-regexr;tech;;https://regexr.com
-perldoc;tech;;https://perldoc.perl.org/perlre#Regular-Expressions
-regex101;tech;;https://regex101.com
-html manual w3 schools;tech;;https://www.w3schools.com/html/
-phyton manual greenteapress;tech;;https://greenteapress.com/thinkpython2/html/index.html
-rust manual;tech;;https://doc.rust-lang.org/book/title-page.html
-rust crates;tech;;https://crates.io
-pypi;tech; python package index;https://pypi.org
-CTAN: latex package index;tech;;https://ctan.org/pkg/
-REPL.IT;tech;;https://replit.com/@JuliaNakotte/rainbow-poem#main.py
-codepen;tech;;https://codepen.io
-jsfiddle;tech; program space;https://jsfiddle.net/p3osqrdn/
-HTTP statuscodes;tech;;https://de.wikipedia.org/wiki/HTTP-Statuscode#
-redirect.li;tech;;https://redirect.li
-ip2locationlite;tech; IP info;https://www.ip2location.io/#ip2locationlite
-OXYGEN;tech; oxygen xml-editor forum;https://www.oxygenxml.com/forum/
+buchhändlerkeller bln;LIT/ART/CON/CAL;;http://www.buchhaendlerkeller-berlin.de
+bundesarchiv;arkkiv;;https://invenio.bundesarchiv.de/invenio/login.xhtml
+bundesarchivgesetz;arkkiv;;https://www.bundesarchiv.de/DE/Navigation/Meta/Ueber-uns/Rechtsgrundlagen/Bundesarchivgesetz/bundesarchivgesetz.html
+bundesgesetzblätter;arkkiv;;https://www.bgbl.de/xaver/bgbl/start.xav#__bgbl__%2F%2F*%5B%40attr_id%3D%27I_2021_16_inhaltsverz%27%5D__1618765792410
+bundesverfassungsgericht;arkkiv;;http://www.bverfg.de/e/rs20070613%5C_1bvr178305.html
+Carto Dialect;linguistics; atlas linguistique de france;http://lig-tdcge.imag.fr/cartodialect5/#/
+cdnjs;linguistics;;https://cdnjs.com/libraries/diff_match_patch
+CERN;arkkiv;;http://cds.cern.ch/collection/CERN%20Archives%20Temporary?ln=de
+check your habitus;LIT/ART/CON/CAL;;https://checkyourhabitus.com
+CHLG](https://www.chlg.ugent.be/corpus/) corpus of historical low german. (CQL \> [man;corpusLX;;https://corpussearch.sourceforge.net/CS-manual/SearchFunctions.html)
+christina fjeldavlino;LIT/ART/CON/CAL; blog norge;https://christinafjeldavlino.home.blog
+CLIO-online;secundaere; fachportal für geschichte und geschichtswissenschaften.;https://www.clio-online.de
+CMDI maker;linguistics;;https://cmdi-maker.uni-koeln.de
 code script compression;tech;;https://freecodingtools.org/online-minifier/python
 code translation;tech;;https://www.codeconvert.ai/app
-MX lookup tool;tech;;https://mxtoolbox.com/MXLookup.aspx) (mail server check
-MN forum;tech; - export notes;https://forum.marginnote.com/t/mn-third-party-addon-better-experience-for-exporting-citing-forked-from-copysearch-made-by-ourongxing/6040
-R Studio;math;;https://www.rstudio.com
-Rstudio cloud;math;;https://posit.cloud
-openrefine;math;;https://openrefine.org/docs
-online r compiler;math;;https://www.online-ide.com/online_r_compiler
-execute r online;math;;https://www.tutorialspoint.com/execute_r_online.php
-rextester;math; -//-;https://rextester.com/IXOWO88708
-sage dictionary of statistics;math;;https://methods.sagepub.com/reference/the-sage-dictionary-of-statistics) (fu vpn
-DUDEN;language;;https://www.munzinger.de/search/query?query.id=query-duden
-duden API;language;;https://api.duden.io/?shell#introduction
-der grimm;language;;http://woerterbuchnetz.de/cgi-bin/WBNetz/wbgui_py?sigle=DWB&mode=Vernetzung&hitlist=&patternlist=&lemid=GA00001#XGA00001
-pealim;language; ivrit;https://www.pealim.com/search/?q=%D7%A9%D7%A2%D7%A9%D7%A2
-morfix.il;language; ivrit;https://www.morfix.co.il/%D7%9E%D7%99%D7%97%D7%93%D7%95%D7%AA
-langenscheidt schwedisch;language;;https://de.langenscheidt.com/deutsch-schwedisch/ahnung
-russisch;language;;http://www.russian-online.net/de_start/grammatik/index.php
-plattdeutsches wörterbuch;language; ...wörterbuch der westmünsterländischen mundart;http://neon.niederlandistik.fu-berlin.de/de/plattdeutsch/wb?such=wichel
-friesisch.net;language; nordfriesisches onlinewörterbuch;https://www.friesisch.net
-pons latein;language;;https://de.pons.com/%C3%BCbersetzung/latein-deutsch/manus
-konjugation latein;language;;http://www.lateinseiten.de/konjugator/kon80/index.htm
-larousse francais;language;;https://www.larousse.fr/dictionnaires/allemand-francais
-reverso.net;language;;https://konjugator.reverso.net/konjugation-russisch-verb-%D1%83%D1%87%D0%B8%D1%82%D1%8C%D1%81%D1%8F.html
-D-Place;scient; Database of Places, Language, Culture and Environment;https://d-place.org
-wikipedia;scient;;https://www.wikipedia.de
-pantheon;scient; wikipedia stats visualisation;https://pantheon.world
-semantic mediawiki;scient;;https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki
-OES;scient; open encyclopedia system;https://github.com/open-encyclopedia-system/
-OES platform;scient;;https://www.open-encyclopedia-system.org/about-OES/using_oes/index.html
-MINA REES DH portal;scient;;https://libguides.gc.cuny.edu/digital_tools_consult
-SSH open marketplace;scient; DH portal;https://marketplace.sshopencloud.eu
-riseup etherpad;alii;;https://pad.riseup.net
-cryptpad.fr;alii;;https://cryptpad.fr
-yopad.eu;alii;;https://yopad.eu
-transkribus;alii; OCR;https://readcoop.eu/transkribus
-escriptorium;alii; OCR;https://gitlab.com/scripta/escriptorium
-kraken;alii; OCR;https://kraken.re/main/index.html
-SoSci survey;alii; umfragetool, komplex;https://www.soscisurvey.de/admin/index.php
-votingo FUB;alii; umfragetool, simple;https://votingo.cedis.fu-berlin.de
-PINGO;alii; -//-;https://pingo.coactum.de/
-heroku;alii;;https://www.heroku.com
-ANNIS;corpusLX; corpus framework;https://corpus-tools.org/annis/
-CWB;corpusLX;;https://cwb.sourceforge.io) IMS corpus workbench, CQP... (install, tutorials etc.
-sketch engine;corpusLX;;https://auth.sketchengine.eu/#login
-no.sketch.engine;corpusLX; korpus DB;https://nlp.fi.muni.cz/trac/noske
-UCSB santa barbara corpus;corpusLX; of spoken american english;https://www.linguistics.ucsb.edu/research/santa-barbara-corpus
-NY Times Archive;corpusLX; institutional account registration needed;https://fu-berlin.primo.exlibrisgroup.com/permalink/49KOBV_FUB/1v1tp5h/alma9961302613102883
-DTA;corpusLX; deutsches textarchiv;https://www.deutschestextarchiv.de
-BNC web;corpusLX;  ;http://bncweb.lancs.ac.uk/cgi-binbncXML/BNCquery.pl?theQuery=search&urlTest=yes
-BAS clarin LMU;corpusLX; archive for speech signals, institutszugang;https://clarin.phonetik.uni-muenchen.de/BASRepository/
-MoCoDa;corpusLX; ;http://mocoda.spracheinteraktion.de/?site=suche
-MoCoDa actuel;corpusLX; mobile communication database;https://db.mocoda2.de/c/home
-tweepy;corpusLX; fetch twitter data;https://docs.tweepy.org/en/stable/getting_started.html
-ggle NGram viewer;corpusLX;;https://books.google.com/ngrams/graph?content=yani&year_start=1950&year_end=2019&corpus=31&smoothing=3&direct_url=t1%3B%2Cyani%3B%2Cc0
-Corpus of Contemporary American English (COCA);corpusLX;;https://www.english-corpora.org/coca/
-KIDKO;corpusLX; uni hamburg kiezdeutschcorpus;https://corpora.uni-hamburg.de/annis/kidko
-MERLIN;corpusLX; learner corpus;https://www.merlin-platform.eu/#
-CHLG](https://www.chlg.ugent.be/corpus/) corpus of historical low german. (CQL \> [man;corpusLX;;https://corpussearch.sourceforge.net/CS-manual/SearchFunctions.html)
-RAE;corpusLX; corpus spanisch;http://corpus.rae.es/creanet.html
-DGD;corpusLX; mannheim. corpus-datenbank für gesprochenes deutsch.;https://dgd.ids-mannheim.de/
+codepen;tech;;https://codepen.io
+conceptual poetics day;LIT/ART/CON/CAL;;http://www.conceptualpoeticsday.org
 corpora international;corpusLX;;https://app.sketchengine.eu/#corpus?tab=basic&cat=all&sketches=0&lang=&lang2=&query=&showOld=0
-netzschleuder;arkkiv;;https://networks.skewed.de
-konect.cc;arkkiv; networks repositories;http://konect.cc
-GaGa;arkkiv; :gemeinsam an gutenberg arbeiten:;https://www.gaga.net/pgdp/default.php
+Corpus of Contemporary American English (COCA);corpusLX;;https://www.english-corpora.org/coca/
 COST-ELTeC;arkkiv;, ;https://distantreading.github.io/ELTeC/
 COST-ELTeC linktree;arkkiv;;https://lipogg.github.io/textanalyse-mit-r/exkurs-xml-tei-und-xpath.html#wo-findet-man-korpora-die-in-xml-tei-ausgezeichnet-sind
 COST-ELTeC linktree;arkkiv;;https://github.com/COST-ELTeC/ELTeC
-lyrikline.org;arkkiv;;https://www.lyrikline.org/de/gedichte/svalbard-paem-15118
-einakter datenbank;arkkiv;;https://einakter.dracor.org/plays
-DraCOR;arkkiv; drama corpora, multiL;https://dracor.org
+cryptpad.fr;alii;;https://cryptpad.fr
+CSS comp;tech;;https://developer.mozilla.org/de/docs/Web/CSS/float
+CTAN: latex package index;tech;;https://ctan.org/pkg/
+Ctrl+Alt+Dem;LIT/ART/CON/CAL; Jan Blommaert's research blog;https://alternative-democracy-research.org
+CWB;corpusLX;;https://cwb.sourceforge.io) IMS corpus workbench, CQP... (install, tutorials etc.
+cytoscape;linguistics; network analysis tools;https://cytoscape.org/download.html
+D-Place;scient; Database of Places, Language, Culture and Environment;https://d-place.org
 de velt fun yidish;arkkiv;;https://yiddish.haifa.ac.il/Stories.html
-yiddishbookcenter;arkkiv;;https://www.yiddishbookcenter.org/collections
--//- ocr;arkkiv; Steven Spielberg Digital Yiddish Library;https://ocr.yiddishbookcenter.org/accounts/login/
-wikisource;arkkiv; textedition;https://de.wikisource.org/wiki/Index:Koller_-_Der_Zauberstein.pdf
-opendata repo halle;arkkiv;;https://opendata.uni-halle.de
-tanakh;arkkiv;;http://www.tanach.us
-DWDS;arkkiv; digitales wörterbuch der deutschen sprache;https://dwds.de
-invenio framework;arkkiv; desperately trying to build up archive, NO.;https://invenio.readthedocs.io/en/latest/getting-started/quickstart/installation.html#create-an-invenio-instance
-TAINACAN;arkkiv; wordpress archive plugin;https://wordpress.org/plugins/tainacan/
-mycore;arkkiv; repository framework;https://www.mycore.de
-macht.sprache;arkkiv; englisch/deutsche übersetzung prekärer begriffe;https://www.machtsprache.de/
-gesetze-im-internet;arkkiv;;http://www.gesetze-im-internet.de/index.html
 denkmaldatenbank;arkkiv; berlin;http://www.stadtentwicklung.berlin.de/denkmal/liste%5C_karte%5C_datenbank/de/denkmaldatenbank/
-bundesgesetzblätter;arkkiv;;https://www.bgbl.de/xaver/bgbl/start.xav#__bgbl__%2F%2F*%5B%40attr_id%3D%27I_2021_16_inhaltsverz%27%5D__1618765792410
-literaturarchiv marbach.;arkkiv;;http://www.dla-marbach.de/katalog
-archivportal D;arkkiv;;https://www.archivportal-d.de
-landesarchiv BW;arkkiv;;https://www.landesarchiv-bw.de/ead
-swisscollections;arkkiv; portal swiss bib / archive;https://swisscollections.ch
-arsenal;arkkiv;;http://films.arsenal-berlin.de/index.php
-leibniz institut;arkkiv;;https://www.ifz-muenchen.de/das-archiv/
-aporee soundscapes;arkkiv;;https://aporee.org/maps/
-bundesverfassungsgericht;arkkiv;;http://www.bverfg.de/e/rs20070613%5C_1bvr178305.html
-time has fallen asleep in the afternoon sunshine;arkkiv;;http://timehasfallenasleepintheafternoonsunshine.be
+der grimm;language;;http://woerterbuchnetz.de/cgi-bin/WBNetz/wbgui_py?sigle=DWB&mode=Vernetzung&hitlist=&patternlist=&lemid=GA00001#XGA00001
+destatis DB;EXKURS; statistisches bundesamt;https://www-genesis.destatis.de/genesis/online
+deutsche digitale bibliothek;primaere;;https://www.deutsche-digitale-bibliothek.de
+DGD;corpusLX; mannheim. corpus-datenbank für gesprochenes deutsch.;https://dgd.ids-mannheim.de/
+diaphanes. 100000words;LIT/ART/CON/CAL;;http://100000words.net
+diff match patch;linguistics; compare text tool. cf: ;https://neil.fraser.name/software/diff_match_patch/demos/diff.html
+diffrakt.space;LIT/ART/CON/CAL;;http://diffrakt.space/en/en-plein-air-ethnographies-of-the-digital/
+DNB;primaere;;https://portal.dnb.de/opac/showSearchForm#top
+DraCOR;arkkiv; drama corpora, multiL;https://dracor.org
+DTA;corpusLX; deutsches textarchiv;https://www.deutschestextarchiv.de
+DTA cab;linguistics; deutsches textarchiv / tokenizer;https://www.deutschestextarchiv.de/public/cab/file
+DUDEN;language;;https://www.munzinger.de/search/query?query.id=query-duden
+duden API;language;;https://api.duden.io/?shell#introduction
+DURM;linguistics; german lemmatizer;https://www.semanticsoftware.info/durm-german-lemmatizer
+DWDS;arkkiv; digitales wörterbuch der deutschen sprache;https://dwds.de
+easy linavis;linguistics; netzwerkvisualisierung;https://exit.rotefadenbuecher.de/uni/public/ezlinavis/
+echtzeitmusik;LIT/ART/CON/CAL;;http://www.echtzeitmusik.de/index.php?page=calendar
+EDQM;EXKURS; knowledge database pharmacy;https://www.edqm.eu/en/knowledge-database
+einakter datenbank;arkkiv;;https://einakter.dracor.org/plays
+ELAN;linguistics;;https://archive.mpi.nl/tla/elan
+ELL;linguistics;;https://dbis.ur.de/detail.php?bib_id=fub&colors=&ocolors=&lett=fs&tid=0&titel_id=6277) Encyclopedia Language and Linguistics (Elsevier 2006) (VPN!
+ERB;LIT/ART/CON/CAL; european review of book, yet to be funded;https://europeanreviewofbooks.com
+escriptorium;alii; OCR;https://gitlab.com/scripta/escriptorium
+ETH e-periodica;primaere;;https://www.e-periodica.ch/digbib/view?pid=alp-004:1953:21::823#585
+execute r online;math;;https://www.tutorialspoint.com/execute_r_online.php
+exit shabbes;LIT/ART/CON/CAL; diskurspartikel enter/exit shabbes;https://userblogs.fu-berlin.de/exitshabbes
+EXMARALDA;linguistics; annotation / transkriptionssoftware;https://exmaralda.org
+fabrikzeitung;LIT/ART/CON/CAL; CH;https://www.fabrikzeitung.ch/still-jenny-from-the-block/#
+favoriten festival;LIT/ART/CON/CAL;;http://favoriten-festival.de/magazin?topic=51
 ferring stiftung;arkkiv; archiv der inseln amrum und föhr.;https://ferring-stiftung.de/inselarchive/archiv/
-wolfgang koeppen;arkkiv;;http://www.koeppen-jugend.de
-CERN;arkkiv;;http://cds.cern.ch/collection/CERN%20Archives%20Temporary?ln=de
-w.g. sebald lexikon;arkkiv; #73284.;http://www.wgsebald.de
-kleist archiv;arkkiv;;http://www.kleist.org/index.php
+fis broker;EXKURS;;https://www.stadtentwicklung.berlin.de/geoinformation/fis-broker/%7Cfis%20broker
+forTEXT;linguistics; stilometrie;https://fortext.net/routinen/methoden/stilometrie
+friends with books;LIT/ART/CON/CAL;;https://www.friendswithbooks.org
+friesisch.net;language; nordfriesisches onlinewörterbuch;https://www.friesisch.net
+FU refubium;primaere;;https://refubium.fu-berlin.de/handle/fub188/2/discover
+FU videopool;content;;https://fu-berlin.eu.vbrickrev.com/#/media/all
+FU wiki;content;;https://wikis.fu-berlin.de/spacedirectory/view.action
+GaGa;arkkiv; :gemeinsam an gutenberg arbeiten:;https://www.gaga.net/pgdp/default.php
+GAIS;linguistics; transkriptionsindex;http://prowiki.ids-mannheim.de/bin/view/GAIS/TranskriptionIndex
+GATE;linguistics; NLP framework;https://gate.ac.uk/sale/tao/index.html
+gephi;linguistics;;https://gephi.org
+Germanistik...;secundaere; ...im Netz.;https://www.germanistik-im-netz.de/recherchieren/datenquellen/
+gesetze-im-internet;arkkiv;;http://www.gesetze-im-internet.de/index.html
+ggle NGram viewer;corpusLX;;https://books.google.com/ngrams/graph?content=yani&year_start=1950&year_end=2019&corpus=31&smoothing=3&direct_url=t1%3B%2Cyani%3B%2Cc0
+GIB;secundaere;;http://www.gib.uni-tuebingen.de/netzwerk/glossar/index.php?title=GIB_-_Glossar_der_Bildphilosophie:Portal) glossar der bildphilosophie (uni tübingen
+GitLab;EXKURS; git uni halle;https://gitlab.informatik.uni-halle.de/explore/projects?non_archived=true&page=6&sort=latest_activity_desc
+glottolog;linguistics; catalogue of languages and families;https://glottolog.org
+goethe uni frankfurt;primaere; ;http://sammlungen.ub.uni-frankfurt.de
+GoldVarb;linguistics; variable coding, predictability, statistics;https://albuquerque.bioinformatics.uottawa.ca/lab/software.html
+GRAMMIS;linguistics; IDS;https://grammis.ids-mannheim.de/progr@mm/4055
+graum xyz;LIT/ART/CON/CAL;;https://www.graum.xyz/publications/
 hannah arendt critical edition;arkkiv;;https://hannah-arendt-edition.net/home?lang=de
-sammeln;arkkiv; wissenschaftlicher objekte.;https://sammeln.hypotheses.org/category/was-sind-sammlungen
-bundesarchiv;arkkiv;;https://invenio.bundesarchiv.de/invenio/login.xhtml
-bundesarchivgesetz;arkkiv;;https://www.bundesarchiv.de/DE/Navigation/Meta/Ueber-uns/Rechtsgrundlagen/Bundesarchivgesetz/bundesarchivgesetz.html
-HIDAweb;arkkiv; landesarchiv berlin bilddatenbank;http://www.landesarchiv-berlin-bilddatenbank.de/hida4web-LAB/search?browse-all=yes
-archivar;arkkiv; zeitschrift;http://www.archive.nrw.de/archivar/index.html
-archivschule;arkkiv; terminologie;https://www.archivschule.de/uploads/Forschung/ArchivwissenschaftlicheTerminologie/Terminologie.html
-LEObw;arkkiv; landeskunde entdecken online. zb: sammlungen.;https://www.leo-bw.de/themenmodul/sudwestdeutsche-archivalienkunde/archivaliengattungen/sammlungen
-AAD;arkkiv; politisches archiv des auswärtigen amts.;https://archiv.diplo.de/arc-de/das-politische-archiv
-KALLIOPE;arkkiv; nachlässe im verbund suchen.;https://kalliope-verbund.info/de/ueber-kalliope/historie.html
 HARVARD dataverse;arkkiv; zb. parlamentsreden;https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/L4OAKN&version=1.0
-zotero;primaere; bibliography tool;https://www.zotero.org/support/beta_builds
-archive.org;primaere;;https://archive.org/details/diekrisisdereuro00pann/
+hathi trust;primaere; digital library;https://catalog.hathitrust.org/Record/009802727
+heroku;alii;;https://www.heroku.com
+herrndorf;LIT/ART/CON/CAL; arbeit und struktur;https://www.wolfgang-herrndorf.de
+herzog august bibl. wolfenbüttel (OPAC braunschweig);primaere;;https://opac.lbs-braunschweig.gbv.de
+HIDAweb;arkkiv; landesarchiv berlin bilddatenbank;http://www.landesarchiv-berlin-bilddatenbank.de/hida4web-LAB/search?browse-all=yes
+HiFoS;secundaere; Projekt "Historische Formelhafte Sprache und Traditionen des Formulierens";http://www.hifos.uni-trier.de/index.html
+HiSoN;LIT/ART/CON/CAL; historical sociolinguistics network;https://hison.org
+HKW;LIT/ART/CON/CAL;;https://www.hkw.de/de/index.php
+hmbg university press;primaere;;https://blogs.sub.uni-hamburg.de/hup/
+html manual w3 schools;tech;;https://www.w3schools.com/html/
+HTTP statuscodes;tech;;https://de.wikipedia.org/wiki/HTTP-Statuscode#
+HU linguistik kalender;LIT/ART/CON/CAL;;https://hpsg.hu-berlin.de/Events/
+hypotheses;primaere; academic blogs;https://reticular.hypotheses.org/1745
+ICI berlin - institute for cultural inquiry;LIT/ART/CON/CAL;;https://www.ici-berlin.org
+ICU;tech;;https://unicode-org.github.io/icu/userguide/strings/regexp.html
+IKA wien;LIT/ART/CON/CAL; institut für kunst und architektur;https://ika.akbild.ac.at
+ingenta open;primaere; zeitschrift für germanistik etc.;https://www.ingentaopen.com/content/journals/22351272/28/2
+INS berlin;LIT/ART/CON/CAL;;http://www.necronauts.net/berlin/documents/index
+intrige;LIT/ART/CON/CAL; magazin für junges theater;https://intrige.ch
+invenio framework;arkkiv; desperately trying to build up archive, NO.;https://invenio.readthedocs.io/en/latest/getting-started/quickstart/installation.html#create-an-invenio-instance
+IOWA city public library presentations;LIT/ART/CON/CAL;;https://iwp.uiowa.edu/archives/iowa-city-public-library-presentations/2016
+ip2locationlite;tech; IP info;https://www.ip2location.io/#ip2locationlite
+IPA;linguistics;;https://ipa.typeit.org/full/
+IPA;linguistics;… / phonetic transcription;https://westonruter.github.io/ipa-chart/keyboard/
+jacobin/ada;LIT/ART/CON/CAL; socialist online magazine;https://jacobin.de/
+jsfiddle;tech; program space;https://jsfiddle.net/p3osqrdn/
+jsSyntaxTree;linguistics;;http://www.ironcreek.net/syntaxtree/
+kalender literaturszene BLN;LIT/ART/CON/CAL;;https://www.literaturszene.berlin/kalender/
+KALLIOPE;arkkiv; nachlässe im verbund suchen.;https://kalliope-verbund.info/de/ueber-kalliope/historie.html
+kanopy;primaere; science video platform;https://fuberlin.kanopy.com/video/linguists-3
+KIDKO;corpusLX; uni hamburg kiezdeutschcorpus;https://corpora.uni-hamburg.de/annis/kidko
+kleist archiv;arkkiv;;http://www.kleist.org/index.php
+kon paper;LIT/ART/CON/CAL; zeitschrift;https://kon-paper.com
+konect.cc;arkkiv; networks repositories;http://konect.cc
+konjugation latein;language;;http://www.lateinseiten.de/konjugator/kon80/index.htm
+KP manuale;LIT/ART/CON/CAL;;https://kirstenpalz.com/100-manual
+kraken;alii; OCR;https://kraken.re/main/index.html
+KVV FUB;content;;https://www.fu-berlin.de/vv/de/fb
+KVV HUB;content;;https://agnes.hu-berlin.de/lupo/rds?state=wtree&search=1&category=veranstaltung.browse&navigationPosition=functions%2Clectureindex&breadcrumb=lectureindex&topitem=functions&subitem=lectureindex
+KVV potsdam;content;;https://puls.uni-potsdam.de/qisserver/rds?state=wtree&search=1&category=veranstaltung.browse&topitem=lectures&subitem=lectureindex&breadcrumb=lectureindex
+Lacan entziffern;secundaere; rolf nemitz;https://lacan-entziffern.de/anderer/metapher-und-metonymie/
+landesarchiv BW;arkkiv;;https://www.landesarchiv-bw.de/ead
+langenscheidt schwedisch;language;;https://de.langenscheidt.com/deutsch-schwedisch/ahnung
+language archive;linguistics;;https://archive.mpi.nl/tla/accepted-metadata) on CMDI metadata (ELAN
+larousse francais;language;;https://www.larousse.fr/dictionnaires/allemand-francais
+laurence anthony TagAnt;linguistics;;https://www.laurenceanthony.net/software/tagant/
+lauter niemand;LIT/ART/CON/CAL; literaturlabor;http://www.lauter-niemand.de
+LCB;LIT/ART/CON/CAL;;https://lcb.de
+learn buchhaltung;EXKURS;;https://www.rechnungswesen-info.de/buchfuehrung.html
+leibniz institut;arkkiv;;https://www.ifz-muenchen.de/das-archiv/
+leibniz institut;EXKURS;;https://www.ifz-muenchen.de/das-archiv/
+leibniz institut für deutsche sprache;secundaere;;https://www1.ids-mannheim.de/onlineangebote
+LEObw;arkkiv; landeskunde entdecken online. zb: sammlungen.;https://www.leo-bw.de/themenmodul/sudwestdeutsche-archivalienkunde/archivaliengattungen/sammlungen
+letters from an american;LIT/ART/CON/CAL; heather cox richardson;https://heathercoxrichardson.substack.com
+lettretage bln;LIT/ART/CON/CAL;;https://www.lettretage.de
+lfb;LIT/ART/CON/CAL; literaturforum im brechthaus;https://lfbrecht.de/events/
+linguistic atlas project;linguistics; LANE;https://linguisticatlasproject.org
+literaturarchiv marbach.;arkkiv;;http://www.dla-marbach.de/katalog
+literaturfestival bln;LIT/ART/CON/CAL;;http://literaturfestival.com
+literaturport;LIT/ART/CON/CAL;;https://www.literaturport.de/autorenlexikon/
+literaturwissenschaft...;secundaere; ...einladung zur.;http://www.einladung-zur-literaturwissenschaft.de/index.html
+little STEIDL;LIT/ART/CON/CAL;;https://littlesteidl.de/haus-fuer-einen-kunstverlag/
+living handbook of narratology;linguistics;;http://www.lhn.uni-hamburg.de/contents.html
+lorberg pflanzenkatalog;EXKURS;;http://www.lorberg.com/de/
+lyrikline.org;arkkiv;;https://www.lyrikline.org/de/gedichte/svalbard-paem-15118
+macht.sprache;arkkiv; englisch/deutsche übersetzung prekärer begriffe;https://www.machtsprache.de/
+markdown comp;tech;;https://spec.commonmark.org/0.30/
+MAXQDA;linguistics; qualitative data analysis;https://www.maxqda.com/de/
+MAXQDA alternatives;linguistics;;https://alternativeto.net/software/maxqda/
+mdbook;tech; simple but great markdown book creator;https://rust-lang.github.io/mdBook/guide/installation.html
+mediatheque institut francais;primaere;;https://www.ifbibliothek.de
+mediating modern poetry;secundaere; oxford, karen leeder;https://mmp.mml.ox.ac.uk
+mensa pinnwand FUB;content; modus in development;https://userblogs.fu-berlin.de/mensapinnwand
+MERLIN;corpusLX; learner corpus;https://www.merlin-platform.eu/#
+MINA REES DH portal;scient;;https://libguides.gc.cuny.edu/digital_tools_consult
+MN forum;tech; - export notes;https://forum.marginnote.com/t/mn-third-party-addon-better-experience-for-exporting-citing-forked-from-copysearch-made-by-ourongxing/6040
+MoCoDa;corpusLX; ;http://mocoda.spracheinteraktion.de/?site=suche
+MoCoDa actuel;corpusLX; mobile communication database;https://db.mocoda2.de/c/home
+MongoDB;content;;https://cloud.mongodb.com
+morfix.il;language; ivrit;https://www.morfix.co.il/%D7%9E%D7%99%D7%97%D7%93%D7%95%D7%AA
+multimedia laboratory;EXKURS;;http://medialab.di.unipi.it/Resource/POS/
+münchener digitalisierungszentrum;primaere;;https://www.digitale-sammlungen.de/index.html?c=sammlungen_liste&l=de%7Cm%C3%BCnchener%20digitalisierungszentrum
+MX lookup tool;tech;;https://mxtoolbox.com/MXLookup.aspx) (mail server check
+mycore;arkkiv; repository framework;https://www.mycore.de
+nachtkritik;LIT/ART/CON/CAL;;https://nachtkritik.de/index.php?option=com_content&view=featured&Itemid=100190
+netzschleuder;arkkiv;;https://networks.skewed.de
+no.sketch.engine;corpusLX; korpus DB;https://nlp.fi.muni.cz/trac/noske
+NY Times Archive;corpusLX; institutional account registration needed;https://fu-berlin.primo.exlibrisgroup.com/permalink/49KOBV_FUB/1v1tp5h/alma9961302613102883
+OES;scient; open encyclopedia system;https://github.com/open-encyclopedia-system/
+OES platform;scient;;https://www.open-encyclopedia-system.org/about-OES/using_oes/index.html
+online dictionaries linguistics;linguistics;;http://mmmann.de/Sprache/online-wbb-ling.html
+online r compiler;math;;https://www.online-ide.com/online_r_compiler
+onur solmaz;LIT/ART/CON/CAL; tech / LX / alii blog;https://solmaz.io/frequencies-german-definite-articles
+opendata repo halle;arkkiv;;https://opendata.uni-halle.de
+openrefine;math;;https://openrefine.org/docs
+OSF;secundaere; open research platform;https://osf.io
+österreichische nationalbibliothek;primaere;;https://data.onb.ac.at/rec/AC10183969
+OXYGEN;tech; oxygen xml-editor forum;https://www.oxygenxml.com/forum/
+pandoc manual;tech;;https://pandoc.org/MANUAL.html
+pantheon;scient; wikipedia stats visualisation;https://pantheon.world
+pealim;language; ivrit;https://www.pealim.com/search/?q=%D7%A9%D7%A2%D7%A9%D7%A2
+perldoc;tech;;https://perldoc.perl.org/perlre#Regular-Expressions
+pflanzenfundgrube systematisch;EXKURS;;http://pflanzenfundgrube.zum.de/cgi-bin/show.app
+phyton manual greenteapress;tech;;https://greenteapress.com/thinkpython2/html/index.html
+PINGO;alii; -//-;https://pingo.coactum.de/
+plattdeutsches wörterbuch;language; ...wörterbuch der westmünsterländischen mundart;http://neon.niederlandistik.fu-berlin.de/de/plattdeutsch/wb?such=wichel
+pons latein;language;;https://de.pons.com/%C3%BCbersetzung/latein-deutsch/manus
+PRIMO;content;;https://fu-berlin.primo.exlibrisgroup.com/discovery/search?vid=49KOBV_FUB:FUB
 project gutenberg;primaere;;https://gutenberg.org/ebooks/
 projekt gutenberg-DE;primaere;;https://www.projekt-gutenberg.org
-hypotheses;primaere; academic blogs;https://reticular.hypotheses.org/1745
-semantic scholar;primaere;;https://www.semanticscholar.org
-münchener digitalisierungszentrum;primaere;;https://www.digitale-sammlungen.de/index.html?c=sammlungen_liste&l=de%7Cm%C3%BCnchener%20digitalisierungszentrum
-österreichische nationalbibliothek;primaere;;https://data.onb.ac.at/rec/AC10183969
-deutsche digitale bibliothek;primaere;;https://www.deutsche-digitale-bibliothek.de
+pypi;tech; python package index;https://pypi.org
 QUALAMOS;primaere;;https://www.qalamos.net/content/index.xed
-DNB;primaere;;https://portal.dnb.de/opac/showSearchForm#top
-herzog august bibl. wolfenbüttel (OPAC braunschweig);primaere;;https://opac.lbs-braunschweig.gbv.de
-hathi trust;primaere; digital library;https://catalog.hathitrust.org/Record/009802727
-ZENODO;primaere; research base;https://www.zenodo.org
-stabi;primaere; ;https://digital.staatsbibliothek-berlin.de
-ULB sachsen-anhalt;primaere; ;http://digital.bibliothek.uni-halle.de/hd/
-goethe uni frankfurt;primaere; ;http://sammlungen.ub.uni-frankfurt.de
-UB heidelberg;primaere;;https://www.ub.uni-heidelberg.de/helios/Welcome.html
-stabi hamburg;primaere;;https://digitalisate.sub.uni-hamburg.de/startseite.html
-hmbg university press;primaere;;https://blogs.sub.uni-hamburg.de/hup/
-uni potsdam;primaere;;https://www.uni-potsdam.de/de/svm/index
-mediatheque institut francais;primaere;;https://www.ifbibliothek.de
-voebb.de;primaere; homepage verbund öffentlicher bibliotheken in BLN;https://voebb.de
-ETH e-periodica;primaere;;https://www.e-periodica.ch/digbib/view?pid=alp-004:1953:21::823#585
-ingenta open;primaere; zeitschrift für germanistik etc.;https://www.ingentaopen.com/content/journals/22351272/28/2
-UB Bern linguistik online;primaere;;https://bop.unibe.ch/linguistik-online/
-FU refubium;primaere;;https://refubium.fu-berlin.de/handle/fub188/2/discover
-kanopy;primaere; science video platform;https://fuberlin.kanopy.com/video/linguists-3
-QUIDEX: schlüsselstellen;secundaere; HU project cross referencing secundaere;https://pages.cms.hu-berlin.de/schluesselstellen/quidex/index.html?work=Judenbuche&lang=de
-mediating modern poetry;secundaere; oxford, karen leeder;https://mmp.mml.ox.ac.uk
-weltliteratur;secundaere; :black market for the digital humanities:;https://weltliteratur.net
-OSF;secundaere; open research platform;https://osf.io
-Lacan entziffern;secundaere; rolf nemitz;https://lacan-entziffern.de/anderer/metapher-und-metonymie/
-sprache und wissen;secundaere;;http://sprache-und-wissen.de
-HiFoS;secundaere; Projekt "Historische Formelhafte Sprache und Traditionen des Formulierens";http://www.hifos.uni-trier.de/index.html
-Germanistik...;secundaere; ...im Netz.;https://www.germanistik-im-netz.de/recherchieren/datenquellen/
-literaturwissenschaft...;secundaere; ...einladung zur.;http://www.einladung-zur-literaturwissenschaft.de/index.html
-leibniz institut für deutsche sprache;secundaere;;https://www1.ids-mannheim.de/onlineangebote
-CLIO-online;secundaere; fachportal für geschichte und geschichtswissenschaften.;https://www.clio-online.de
-synergiewissen;secundaere; WIKI open acces lexikon.;https://www.zflprojekte.de/synergie/doku.php
-ZFL;secundaere; leibniz zentrum für literatur- und kulturforschung berlin.;https://www.zfl-berlin.org/das-zfl.html
-GIB;secundaere;;http://www.gib.uni-tuebingen.de/netzwerk/glossar/index.php?title=GIB_-_Glossar_der_Bildphilosophie:Portal) glossar der bildphilosophie (uni tübingen
-ada fruit;EXKURS; mint tech;https://learn.adafruit.com/minty-boost/icharging
-GitLab;EXKURS; git uni halle;https://gitlab.informatik.uni-halle.de/explore/projects?non_archived=true&page=6&sort=latest_activity_desc
-destatis DB;EXKURS; statistisches bundesamt;https://www-genesis.destatis.de/genesis/online
-leibniz institut;EXKURS;;https://www.ifz-muenchen.de/das-archiv/
-fis broker;EXKURS;;https://www.stadtentwicklung.berlin.de/geoinformation/fis-broker/%7Cfis%20broker
-multimedia laboratory;EXKURS;;http://medialab.di.unipi.it/Resource/POS/
-learn buchhaltung;EXKURS;;https://www.rechnungswesen-info.de/buchfuehrung.html
-lorberg pflanzenkatalog;EXKURS;;http://www.lorberg.com/de/
-www.biorxiv.org;EXKURS;;https://www.biorxiv.org
-EDQM;EXKURS; knowledge database pharmacy;https://www.edqm.eu/en/knowledge-database
-wikipedia on greek mythology;EXKURS;;https://de.wikipedia.org/wiki/Liste_der_Gestalten_der_griechischen_Mythologie/A
-pflanzenfundgrube systematisch;EXKURS;;http://pflanzenfundgrube.zum.de/cgi-bin/show.app
-HiSoN;LIT/ART/CON/CAL; historical sociolinguistics network;https://hison.org
-jacobin/ada;LIT/ART/CON/CAL; socialist online magazine;https://jacobin.de/
-translationista;LIT/ART/CON/CAL; s. bernofsky;https://translationista.com/2022/09/notes-from-the-magic-mountain-9-12-22.html
-onur solmaz;LIT/ART/CON/CAL; tech / LX / alii blog;https://solmaz.io/frequencies-german-definite-articles
-fabrikzeitung;LIT/ART/CON/CAL; CH;https://www.fabrikzeitung.ch/still-jenny-from-the-block/#
-tegel media;LIT/ART/CON/CAL;;https://tegelmedia.net/#content
-serpentmagazine;LIT/ART/CON/CAL;;https://serpentmagazine.github.io
-lfb;LIT/ART/CON/CAL; literaturforum im brechthaus;https://lfbrecht.de/events/
-IKA wien;LIT/ART/CON/CAL; institut für kunst und architektur;https://ika.akbild.ac.at
-herrndorf;LIT/ART/CON/CAL; arbeit und struktur;https://www.wolfgang-herrndorf.de
-UNI AK wien;LIT/ART/CON/CAL; institut für sprachkunst der universität für angewandte kunst wien;https://sprachkunst.uni-ak.ac.at
-ERB;LIT/ART/CON/CAL; european review of book, yet to be funded;https://europeanreviewofbooks.com
-exit shabbes;LIT/ART/CON/CAL; diskurspartikel enter/exit shabbes;https://userblogs.fu-berlin.de/exitshabbes
-sanfte zerstörung;LIT/ART/CON/CAL; gendergaga 4u;https://sanfte-zerstoerung.de/index.php
 queer poets in greek;LIT/ART/CON/CAL;;https://queerpoets.com/maggie-smith/
-check your habitus;LIT/ART/CON/CAL;;https://checkyourhabitus.com
-alles dicht;LIT/ART/CON/CAL; online theaterpremieren;https://allesdichtmachen.de
-Ctrl+Alt+Dem;LIT/ART/CON/CAL; Jan Blommaert's research blog;https://alternative-democracy-research.org
-letters from an american;LIT/ART/CON/CAL; heather cox richardson;https://heathercoxrichardson.substack.com
-kon paper;LIT/ART/CON/CAL; zeitschrift;https://kon-paper.com
-intrige;LIT/ART/CON/CAL; magazin für junges theater;https://intrige.ch
-nachtkritik;LIT/ART/CON/CAL;;https://nachtkritik.de/index.php?option=com_content&view=featured&Itemid=100190
-sarah raich;LIT/ART/CON/CAL; autorin;https://www.sarah-raich.de/die-fehlenden-buecher
-kalender literaturszene BLN;LIT/ART/CON/CAL;;https://www.literaturszene.berlin/kalender/
-diffrakt.space;LIT/ART/CON/CAL;;http://diffrakt.space/en/en-plein-air-ethnographies-of-the-digital/
-ICI berlin - institute for cultural inquiry;LIT/ART/CON/CAL;;https://www.ici-berlin.org
-transphilosophen;LIT/ART/CON/CAL;;http://transphilosophisch.de
-wochendämmerung;LIT/ART/CON/CAL; BLN world view;https://wochendaemmerung.de
-christina fjeldavlino;LIT/ART/CON/CAL; blog norge;https://christinafjeldavlino.home.blog
-sprachlog;LIT/ART/CON/CAL; a. stefanowitsch;http://www.sprachlog.de/2011/12/14/frauen-natuerlich-ausgenommen/
-favoriten festival;LIT/ART/CON/CAL;;http://favoriten-festival.de/magazin?topic=51
+QUIDEX: schlüsselstellen;secundaere; HU project cross referencing secundaere;https://pages.cms.hu-berlin.de/schluesselstellen/quidex/index.html?work=Judenbuche&lang=de
+R string processing;linguistics;;https://stringi.gagolewski.com
+R Studio;math;;https://www.rstudio.com
 R.R.R.;LIT/ART/CON/CAL;;http://rrr.haus-des-wandels.de
-echtzeitmusik;LIT/ART/CON/CAL;;http://www.echtzeitmusik.de/index.php?page=calendar
-HU linguistik kalender;LIT/ART/CON/CAL;;https://hpsg.hu-berlin.de/Events/
-conceptual poetics day;LIT/ART/CON/CAL;;http://www.conceptualpoeticsday.org
-INS berlin;LIT/ART/CON/CAL;;http://www.necronauts.net/berlin/documents/index
-little STEIDL;LIT/ART/CON/CAL;;https://littlesteidl.de/haus-fuer-einen-kunstverlag/
-b-books;LIT/ART/CON/CAL;;http://www.b-books.de/share.htm
-KP manuale;LIT/ART/CON/CAL;;https://kirstenpalz.com/100-manual
-graum xyz;LIT/ART/CON/CAL;;https://www.graum.xyz/publications/
-diaphanes. 100000words;LIT/ART/CON/CAL;;http://100000words.net
-IOWA city public library presentations;LIT/ART/CON/CAL;;https://iwp.uiowa.edu/archives/iowa-city-public-library-presentations/2016
-ann quinn. eye of the storm.;LIT/ART/CON/CAL;;https://annquinn.org/eye-of-the-storm-vai/
-afsnit P;LIT/ART/CON/CAL;;https://afsnitp.dk/galleri/archiveszaroum/
+RAE;corpusLX; corpus spanisch;http://corpus.rae.es/creanet.html
+reaktanz;linguistics; R-packages (NLP / psych / various) ;https://reaktanz.de/?c=hacking&s=koRpus
+REDE;linguistics; regionalsprachenatlas D;https://www.regionalsprache.de
+redirect.li;tech;;https://redirect.li
+regex compend;tech;;https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap09.html
+regex quick;tech;;https://ahkde.github.io/docs/misc/RegEx-QuickRef.htm#Common
+regex101;tech;;https://regex101.com
+regexr;tech;;https://regexr.com
+REPL.IT;tech;;https://replit.com/@JuliaNakotte/rainbow-poem#main.py
+reverso.net;language;;https://konjugator.reverso.net/konjugation-russisch-verb-%D1%83%D1%87%D0%B8%D1%82%D1%8C%D1%81%D1%8F.html
+rextester;math; -//-;https://rextester.com/IXOWO88708
+RFTagger;linguistics; ;https://www.cis.lmu.de/~schmid/tools/RFTagger/
+riseup etherpad;alii;;https://pad.riseup.net
+Rstudio cloud;math;;https://posit.cloud
+russisch;language;;http://www.russian-online.net/de_start/grammatik/index.php
+rust crates;tech;;https://crates.io
+rust manual;tech;;https://doc.rust-lang.org/book/title-page.html
+sage dictionary of statistics;math;;https://methods.sagepub.com/reference/the-sage-dictionary-of-statistics) (fu vpn
+sammeln;arkkiv; wissenschaftlicher objekte.;https://sammeln.hypotheses.org/category/was-sind-sammlungen
+sanfte zerstörung;LIT/ART/CON/CAL; gendergaga 4u;https://sanfte-zerstoerung.de/index.php
+sarah raich;LIT/ART/CON/CAL; autorin;https://www.sarah-raich.de/die-fehlenden-buecher
+semantic mediawiki;scient;;https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki
+semantic scholar;primaere;;https://www.semanticscholar.org
+serpentmagazine;LIT/ART/CON/CAL;;https://serpentmagazine.github.io
+shiny dracor;linguistics; drama networks;https://shiny.dracor.org
+SIL glossary of linguistic terms;linguistics;;https://glossary.sil.org/term
+sketch engine;corpusLX;;https://auth.sketchengine.eu/#login
+SoSci survey;alii; umfragetool, komplex;https://www.soscisurvey.de/admin/index.php
+sprache und wissen;secundaere;;http://sprache-und-wissen.de
+sprachlog;LIT/ART/CON/CAL; a. stefanowitsch;http://www.sprachlog.de/2011/12/14/frauen-natuerlich-ausgenommen/
+Sprachtheorie;linguistics;;https://www.christianlehmann.eu/ling/ling_theo/index.html
+SSH open marketplace;scient; DH portal;https://marketplace.sshopencloud.eu
+stabi;primaere; ;https://digital.staatsbibliothek-berlin.de
+stabi hamburg;primaere;;https://digitalisate.sub.uni-hamburg.de/startseite.html
+stackoverflow;tech;;https://stackoverflow.com/questions
+stanford parser](http://nlp.stanford.edu:8080/parser/) NO. \> [this repo;linguistics;;https://github.com/stanfordnlp/CoreNLP
+stanfordNLP;linguistics; PoS tagging tools;https://nlp.stanford.edu/software/tagger.shtml
+swisscollections;arkkiv; portal swiss bib / archive;https://swisscollections.ch
+synergiewissen;secundaere; WIKI open acces lexikon.;https://www.zflprojekte.de/synergie/doku.php
+taguette;linguistics;;https://www.taguette.org/getting-started.html
+TAINACAN;arkkiv; wordpress archive plugin;https://wordpress.org/plugins/tainacan/
+tanakh;arkkiv;;http://www.tanach.us
+tegel media;LIT/ART/CON/CAL;;https://tegelmedia.net/#content
+TEI conversion;linguistics;;https://oxgarage2.tei-c.org/
+text processing API;linguistics; natural language analysis APIs;http://text-processing.com
+time has fallen asleep in the afternoon sunshine;arkkiv;;http://timehasfallenasleepintheafternoonsunshine.be
+transkribus;alii; OCR;https://readcoop.eu/transkribus
+translationista;LIT/ART/CON/CAL; s. bernofsky;https://translationista.com/2022/09/notes-from-the-magic-mountain-9-12-22.html
 transmediale;LIT/ART/CON/CAL;;https://transmediale.de/journal
-friends with books;LIT/ART/CON/CAL;;https://www.friendswithbooks.org
-lauter niemand;LIT/ART/CON/CAL; literaturlabor;http://www.lauter-niemand.de
-ACUD.kook.read;LIT/ART/CON/CAL;;https://acudmachtneu.de/spaces/studio/
-HKW;LIT/ART/CON/CAL;;https://www.hkw.de/de/index.php
-ausland bln;LIT/ART/CON/CAL;;https://ausland-berlin.de
+transphilosophen;LIT/ART/CON/CAL;;http://transphilosophisch.de
+treetagger;linguistics; ;https://cis.uni-muenchen.de/~schmid/tools/TreeTagger/
+tweepy;corpusLX; fetch twitter data;https://docs.tweepy.org/en/stable/getting_started.html
+TWL;content;;https://wholelifeacademy.hkw.de/index.php/apps/circles/
+UB Bern linguistik online;primaere;;https://bop.unibe.ch/linguistik-online/
+UB heidelberg;primaere;;https://www.ub.uni-heidelberg.de/helios/Welcome.html
+UCSB santa barbara corpus;corpusLX; of spoken american english;https://www.linguistics.ucsb.edu/research/santa-barbara-corpus
+ULB sachsen-anhalt;primaere; ;http://digital.bibliothek.uni-halle.de/hd/
 ultraschall bln;LIT/ART/CON/CAL;;https://ultraschallberlin.de
-literaturfestival bln;LIT/ART/CON/CAL;;http://literaturfestival.com
-lettretage bln;LIT/ART/CON/CAL;;https://www.lettretage.de
-buchhändlerkeller bln;LIT/ART/CON/CAL;;http://www.buchhaendlerkeller-berlin.de
-literaturport;LIT/ART/CON/CAL;;https://www.literaturport.de/autorenlexikon/
-LCB;LIT/ART/CON/CAL;;https://lcb.de
+UNI AK wien;LIT/ART/CON/CAL; institut für sprachkunst der universität für angewandte kunst wien;https://sprachkunst.uni-ak.ac.at
+uni potsdam;primaere;;https://www.uni-potsdam.de/de/svm/index
+userpage DAV;content;;https://webdav.zedat.fu-berlin.de
+voebb.de;primaere; homepage verbund öffentlicher bibliotheken in BLN;https://voebb.de
+votingo FUB;alii; umfragetool, simple;https://votingo.cedis.fu-berlin.de
+voyant tools;linguistics; online text analysis;https://voyant-tools.org
+w.g. sebald lexikon;arkkiv; #73284.;http://www.wgsebald.de
+WALS world atlas of language structures;linguistics;;https://wals.info/feature/67A#2/25.5/148.2
+WebLicht;linguistics; NLP toolchains for e.g. EXMARaLDA PoS tagging etc.;https://weblicht.sfs.uni-tuebingen.de/weblicht/
+weltliteratur;secundaere; :black market for the digital humanities:;https://weltliteratur.net
+wetter corbusierhaus;content;;https://www.ecowitt.net/home/share?authorize=TWXHM3
+whiteboard;content; #10283;https://mycampus.imp.fu-berlin.de/x/UxPj6c
+wikimedia API;tech;;https://de.wikisource.org/w/api.php
+wikimedia extensions;tech;;https://www.mediawiki.org/wiki/Manual:Extensions
+wikipedia;scient;;https://www.wikipedia.de
+wikipedia on greek mythology;EXKURS;;https://de.wikipedia.org/wiki/Liste_der_Gestalten_der_griechischen_Mythologie/A
+wikisource;arkkiv; textedition;https://de.wikisource.org/wiki/Index:Koller_-_Der_Zauberstein.pdf
+William Labov;linguistics;;https://www.ling.upenn.edu/~wlabov/
+wochendämmerung;LIT/ART/CON/CAL; BLN world view;https://wochendaemmerung.de
+wolfgang koeppen;arkkiv;;http://www.koeppen-jugend.de
+www.biorxiv.org;EXKURS;;https://www.biorxiv.org
+yiddishbookcenter;arkkiv;;https://www.yiddishbookcenter.org/collections
+yopad.eu;alii;;https://yopad.eu
+ZENODO;primaere; research base;https://www.zenodo.org
+ZFL;secundaere; leibniz zentrum für literatur- und kulturforschung berlin.;https://www.zfl-berlin.org/das-zfl.html
 ZK/U moabit;LIT/ART/CON/CAL;;https://www.zku-berlin.org
-anwesenheitsnotiz;LIT/ART/CON/CAL; linksammlung für uniarbeitenvonzuhause.;https://anwesenheitsnotizen.wordpress.com/2020/03/25/onlinequellen%5C_fuer%5C_hausarbeiten
+zotero;primaere; bibliography tool;https://www.zotero.org/support/beta_builds
