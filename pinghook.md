@@ -1,8 +1,6 @@
-# 13123.ada.pinghook
-#### 13132.v.p
 ###### content
 [whiteboard](https://mycampus.imp.fu-berlin.de/x/UxPj6c) #10283
-[blackboard](https://fu-berlin.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_1_1)
+[blackboard](https://fu-berlin.blackboard.com/webapps/)
 [PRIMO](https://fu-berlin.primo.exlibrisgroup.com/discovery/search?vid=49KOBV_FUB:FUB)
 [KVV FUB](https://www.fu-berlin.de/vv/de/fb)
 [KVV potsdam](https://puls.uni-potsdam.de/qisserver/rds?state=wtree&search=1&category=veranstaltung.browse&topitem=lectures&subitem=lectureindex&breadcrumb=lectureindex)
@@ -12,45 +10,46 @@
 [FU wiki](https://wikis.fu-berlin.de/spacedirectory/view.action)
 [FU videopool](https://fu-berlin.eu.vbrickrev.com/#/media/all)
 [mensa pinnwand FUB](https://userblogs.fu-berlin.de/mensapinnwand) modus in development
-[github](https://github.com/esteeschwarz/DH_essais)
 [MongoDB](https://cloud.mongodb.com)
-[DH index](https://dh-index.org)
-[ada skool](https://ada-sub.dh-index.org/school)
 [wetter corbusierhaus](https://www.ecowitt.net/home/share?authorize=TWXHM3)
-<!--more-->
 
 ##### linguistics
 [BAS webservices](https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface) speech signals processing
-[diff match patch](https://neil.fraser.name/software/diff_match_patch/demos/diff.html) compare text tool. cf: [cdnjs](https://cdnjs.com/libraries/diff_match_patch)
-[gephi](https://gephi.org) / [cytoscape](https://cytoscape.org/download.html) network analysis tools
+[diff match patch](https://neil.fraser.name/software/diff_match_patch/demos/diff.html) compare text tool. cf: 
+[cdnjs](https://cdnjs.com/libraries/diff_match_patch)
+[gephi](https://gephi.org)
+[cytoscape](https://cytoscape.org/download.html) network analysis tools
 [text processing API](http://text-processing.com) natural language analysis APIs
-[DTA cab](https://www.deutschestextarchiv.de/public/cab/file) deutsches textarchiv, tokenizer
+[DTA cab](https://www.deutschestextarchiv.de/public/cab/file) deutsches textarchiv / tokenizer
 [voyant tools](https://voyant-tools.org) online text analysis
-[MAXQDA](#) qualitative data analysis / [alternatives](https://alternativeto.net/software/maxqda/) / [taquette](https://www.taguette.org/getting-started.html)
+[MAXQDA](https://www.maxqda.com/de/) qualitative data analysis
+[MAXQDA alternatives](https://alternativeto.net/software/maxqda/)
+[taguette](https://www.taguette.org/getting-started.html)
 [forTEXT](https://fortext.net/routinen/methoden/stilometrie) stilometrie
-[reaktanz](https://reaktanz.de/?c=hacking&s=koRpus) R-packages (NLP, psych, various) 
+[reaktanz](https://reaktanz.de/?c=hacking&s=koRpus) R-packages (NLP / psych / various) 
 [GoldVarb](https://albuquerque.bioinformatics.uottawa.ca/lab/software.html) variable coding, predictability, statistics
 [easy linavis](https://exit.rotefadenbuecher.de/uni/public/ezlinavis/) netzwerkvisualisierung
 [shiny dracor](https://shiny.dracor.org) drama networks
 [AntConc](http://www.laurenceanthony.net/software/antconc/) laurence anthony corpus analysis tool
-[ELAN](https://archive.mpi.nl/tla/elan) / [EXMARALDA](https://exmaralda.org) annotation / transkriptionssoftware
+[ELAN](https://archive.mpi.nl/tla/elan)
+[EXMARALDA](https://exmaralda.org) annotation / transkriptionssoftware
 [language archive](https://archive.mpi.nl/tla/accepted-metadata) on CMDI metadata (ELAN)
 [CMDI maker](https://cmdi-maker.uni-koeln.de)
 [jsSyntaxTree](http://www.ironcreek.net/syntaxtree/)
-- PoS tagging:
-	- [treetagger](https://cis.uni-muenchen.de/~schmid/tools/TreeTagger/) 
-	- [RFTagger](https://www.cis.lmu.de/~schmid/tools/RFTagger/) 
-	- [stanfordNLP](https://nlp.stanford.edu/software/tagger.shtml) PoS tagging tools
-	- [WebLicht](https://weblicht.sfs.uni-tuebingen.de/weblicht/) NLP toolchains for e.g. EXMARaLDA PoS tagging etc.
-	- [DURM](https://www.semanticsoftware.info/durm-german-lemmatizer) german lemmatizer
-	- [laurence anthony TagAnt](https://www.laurenceanthony.net/software/tagant/)
-	- [stanford parser](http://nlp.stanford.edu:8080/parser/) NO. \> [this repo](https://github.com/stanfordnlp/CoreNLP)
-[TEI conversion](https://oxgarage2.tei-c.org/#)
-[IPA](https://ipa.typeit.org/full/) / [2nd](https://westonruter.github.io/ipa-chart/keyboard/)… / phonetic transcription
+[treetagger](https://cis.uni-muenchen.de/~schmid/tools/TreeTagger/) 
+[RFTagger](https://www.cis.lmu.de/~schmid/tools/RFTagger/) 
+[stanfordNLP](https://nlp.stanford.edu/software/tagger.shtml) PoS tagging tools
+[WebLicht](https://weblicht.sfs.uni-tuebingen.de/weblicht/) NLP toolchains for e.g. EXMARaLDA PoS tagging etc.
+[DURM](https://www.semanticsoftware.info/durm-german-lemmatizer) german lemmatizer
+[laurence anthony TagAnt](https://www.laurenceanthony.net/software/tagant/)
+[stanford parser](http://nlp.stanford.edu:8080/parser/) NO. \> [this repo](https://github.com/stanfordnlp/CoreNLP)
+[TEI conversion](https://oxgarage2.tei-c.org/)
+[IPA](https://ipa.typeit.org/full/)
+[IPA](https://westonruter.github.io/ipa-chart/keyboard/)… / phonetic transcription
 [R string processing](https://stringi.gagolewski.com)
 [SIL glossary of linguistic terms](https://glossary.sil.org/term)
 [ELL](https://dbis.ur.de/detail.php?bib_id=fub&colors=&ocolors=&lett=fs&tid=0&titel_id=6277) Encyclopedia Language and Linguistics (Elsevier 2006) (VPN!)
-[Sprachtheorie](https://www.christianlehmann.eu/ling/ling_theo/index.html "Sprachtheorie")
+[Sprachtheorie](https://www.christianlehmann.eu/ling/ling_theo/index.html)
 [online dictionaries linguistics](http://mmmann.de/Sprache/online-wbb-ling.html)
 [GRAMMIS](https://grammis.ids-mannheim.de/progr@mm/4055) IDS
 [living handbook of narratology](http://www.lhn.uni-hamburg.de/contents.html)
@@ -69,30 +68,37 @@
 [bookdown](https://bookdown.org/yihui/rmarkdown/) RMarkdown compendium
 [mdbook](https://rust-lang.github.io/mdBook/guide/installation.html) simple but great markdown book creator
 [pandoc manual](https://pandoc.org/MANUAL.html)
+[wikimedia API](https://de.wikisource.org/w/api.php)
+[wikimedia extensions](https://www.mediawiki.org/wiki/Manual:Extensions)
 [CSS comp](https://developer.mozilla.org/de/docs/Web/CSS/float)
-- regular expressions:
-	- [regex quick](https://ahkde.github.io/docs/misc/RegEx-QuickRef.htm#Common)
-	- [regex compend](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap09.html)
-	- [ICU](https://unicode-org.github.io/icu/userguide/strings/regexp.html)
-	- [regexr](https://regexr.com)
-	- [perldoc](https://perldoc.perl.org/perlre#Regular-Expressions)
-	- [regex101](https://regex101.com)
+[regex quick](https://ahkde.github.io/docs/misc/RegEx-QuickRef.htm#Common)
+[regex compend](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap09.html)
+[ICU](https://unicode-org.github.io/icu/userguide/strings/regexp.html)
+[regexr](https://regexr.com)
+[perldoc](https://perldoc.perl.org/perlre#Regular-Expressions)
+[regex101](https://regex101.com)
 [html manual w3 schools](https://www.w3schools.com/html/)
 [phyton manual greenteapress](https://greenteapress.com/thinkpython2/html/index.html)
-[rust manual](https://doc.rust-lang.org/book/title-page.html) / [crates](https://crates.io)
+[rust manual](https://doc.rust-lang.org/book/title-page.html)
+[rust crates](https://crates.io)
 [pypi](https://pypi.org) python package index
 [CTAN: latex package index](https://ctan.org/pkg/)
-[REPL.IT](https://replit.com/@JuliaNakotte/rainbow-poem#main.py) / [codepen](https://codepen.io) / [jsfiddle](https://jsfiddle.net/p3osqrdn/) program space
+[REPL.IT](https://replit.com/@JuliaNakotte/rainbow-poem#main.py)
+[codepen](https://codepen.io)
+[jsfiddle](https://jsfiddle.net/p3osqrdn/) program space
 [HTTP statuscodes](https://de.wikipedia.org/wiki/HTTP-Statuscode#)
-[redirect.li](https://redirect.li) / [ip2locationlite](https://www.ip2location.io/#ip2locationlite) IP info
+[redirect.li](https://redirect.li)
+[ip2locationlite](https://www.ip2location.io/#ip2locationlite) IP info
 [OXYGEN](https://www.oxygenxml.com/forum/) oxygen xml-editor forum
 [code script compression](https://freecodingtools.org/online-minifier/python)
 [code translation](https://www.codeconvert.ai/app)
+[MX lookup tool](https://mxtoolbox.com/MXLookup.aspx) (mail server check)
+[MN forum](https://forum.marginnote.com/t/mn-third-party-addon-better-experience-for-exporting-citing-forked-from-copysearch-made-by-ourongxing/6040) - export notes
 ##### math
 [R Studio](https://www.rstudio.com)
 [Rstudio cloud](https://posit.cloud)
 [openrefine](https://openrefine.org/docs)
-[online\_r\_compiler](https://www.online-ide.com/online_r_compiler)
+[online r compiler](https://www.online-ide.com/online_r_compiler)
 [execute r online](https://www.tutorialspoint.com/execute_r_online.php)
 [rextester](https://rextester.com/IXOWO88708) -//-
 [sage dictionary of statistics](https://methods.sagepub.com/reference/the-sage-dictionary-of-statistics) (fu vpn)
@@ -115,7 +121,8 @@
 [wikipedia](https://www.wikipedia.de)
 [pantheon](https://pantheon.world) wikipedia stats visualisation
 [semantic mediawiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
-[OES](https://github.com/open-encyclopedia-system/) open encyclopedia system, [platform](https://www.open-encyclopedia-system.org/about-OES/using_oes/index.html)
+[OES](https://github.com/open-encyclopedia-system/) open encyclopedia system
+[OES platform](https://www.open-encyclopedia-system.org/about-OES/using_oes/index.html)
 [MINA REES DH portal](https://libguides.gc.cuny.edu/digital_tools_consult)
 [SSH open marketplace](https://marketplace.sshopencloud.eu) DH portal
 ##### alii
@@ -127,41 +134,49 @@
 [kraken](https://kraken.re/main/index.html) OCR
 [SoSci survey](https://www.soscisurvey.de/admin/index.php) umfragetool, komplex
 [votingo FUB](https://votingo.cedis.fu-berlin.de) umfragetool, simple
-[PINGO](https://pingo.coactum.de/ "PINGO") -//-
+[PINGO](https://pingo.coactum.de/) -//-
 [heroku](https://www.heroku.com)
 ##### corpusLX
 [ANNIS](https://corpus-tools.org/annis/) corpus framework
 [CWB](https://cwb.sourceforge.io) IMS corpus workbench, CQP... (install, tutorials etc.)
-[sketch engine](https://auth.sketchengine.eu/#login) [no.sketch.engine](https://nlp.fi.muni.cz/trac/noske) korpus DB
+[sketch engine](https://auth.sketchengine.eu/#login)
+[no.sketch.engine](https://nlp.fi.muni.cz/trac/noske) korpus DB
 [UCSB santa barbara corpus](https://www.linguistics.ucsb.edu/research/santa-barbara-corpus) of spoken american english
 [NY Times Archive](https://fu-berlin.primo.exlibrisgroup.com/permalink/49KOBV_FUB/1v1tp5h/alma9961302613102883) institutional account registration needed
 [DTA](https://www.deutschestextarchiv.de) deutsches textarchiv
 [BNC web](http://bncweb.lancs.ac.uk/cgi-binbncXML/BNCquery.pl?theQuery=search&urlTest=yes)  
 [BAS clarin LMU](https://clarin.phonetik.uni-muenchen.de/BASRepository/) archive for speech signals, institutszugang
-[MoCoDa](http://mocoda.spracheinteraktion.de/?site=suche) [actuel](https://db.mocoda2.de/c/home) mobile communication database
+[MoCoDa](http://mocoda.spracheinteraktion.de/?site=suche) 
+[MoCoDa actuel](https://db.mocoda2.de/c/home) mobile communication database
 [tweepy](https://docs.tweepy.org/en/stable/getting_started.html) fetch twitter data
 [ggle NGram viewer](https://books.google.com/ngrams/graph?content=yani&year_start=1950&year_end=2019&corpus=31&smoothing=3&direct_url=t1%3B%2Cyani%3B%2Cc0)
-[Corpus of Contemporary American English (COCA)](https://www.english-corpora.org/coca/ "Corpus of Contemporary American English (COCA)")
+[Corpus of Contemporary American English (COCA)](https://www.english-corpora.org/coca/)
 [KIDKO](https://corpora.uni-hamburg.de/annis/kidko) uni hamburg kiezdeutschcorpus
 [MERLIN](https://www.merlin-platform.eu/#) learner corpus
 [CHLG](https://www.chlg.ugent.be/corpus/) corpus of historical low german. (CQL \> [man](https://corpussearch.sourceforge.net/CS-manual/SearchFunctions.html))
-[RAE](http://corpus.rae.es/creanet.html "corpus.rae.es/creanet.html") corpus spanisch
+[RAE](http://corpus.rae.es/creanet.html) corpus spanisch
 [DGD](https://dgd.ids-mannheim.de/) mannheim. corpus-datenbank für gesprochenes deutsch.
 [corpora international](https://app.sketchengine.eu/#corpus?tab=basic&cat=all&sketches=0&lang=&lang2=&query=&showOld=0)
 ##### arkkiv
-[netzschleuder](https://networks.skewed.de) / [konect.cc](http://konect.cc) networks repositories
+[netzschleuder](https://networks.skewed.de)
+[konect.cc](http://konect.cc) networks repositories
 [GaGa](https://www.gaga.net/pgdp/default.php) :gemeinsam an gutenberg arbeiten:
-[COST-ELTeC](https://distantreading.github.io/ELTeC/), (linktree [1](https://lipogg.github.io/textanalyse-mit-r/exkurs-xml-tei-und-xpath.html#wo-findet-man-korpora-die-in-xml-tei-ausgezeichnet-sind) / [2](https://github.com/COST-ELTeC/ELTeC))
+[COST-ELTeC](https://distantreading.github.io/ELTeC/), 
+[COST-ELTeC linktree](https://lipogg.github.io/textanalyse-mit-r/exkurs-xml-tei-und-xpath.html#wo-findet-man-korpora-die-in-xml-tei-ausgezeichnet-sind)
+[COST-ELTeC linktree](https://github.com/COST-ELTeC/ELTeC)
 [lyrikline.org](https://www.lyrikline.org/de/gedichte/svalbard-paem-15118)
 [einakter datenbank](https://einakter.dracor.org/plays)
 [DraCOR](https://dracor.org) drama corpora, multiL
 [de velt fun yidish](https://yiddish.haifa.ac.il/Stories.html)
-[yiddishbookcenter](https://www.yiddishbookcenter.org/collections) \> [ocr](https://ocr.yiddishbookcenter.org/accounts/login/) Steven Spielberg Digital Yiddish Library
+[yiddishbookcenter](https://www.yiddishbookcenter.org/collections)
+[-//- ocr](https://ocr.yiddishbookcenter.org/accounts/login/) Steven Spielberg Digital Yiddish Library
 [wikisource](https://de.wikisource.org/wiki/Index:Koller_-_Der_Zauberstein.pdf) textedition
 [opendata repo halle](https://opendata.uni-halle.de)
 [tanakh](http://www.tanach.us)
 [DWDS](https://dwds.de) digitales wörterbuch der deutschen sprache
 [invenio framework](https://invenio.readthedocs.io/en/latest/getting-started/quickstart/installation.html#create-an-invenio-instance) desperately trying to build up archive, NO.
+[TAINACAN](https://wordpress.org/plugins/tainacan/) wordpress archive plugin
+[mycore](https://www.mycore.de) repository framework
 [macht.sprache](https://www.machtsprache.de/) englisch/deutsche übersetzung prekärer begriffe
 [gesetze-im-internet](http://www.gesetze-im-internet.de/index.html)
 [denkmaldatenbank](http://www.stadtentwicklung.berlin.de/denkmal/liste%5C_karte%5C_datenbank/de/denkmaldatenbank/) berlin
@@ -221,6 +236,7 @@
 [FU refubium](https://refubium.fu-berlin.de/handle/fub188/2/discover)
 [kanopy](https://fuberlin.kanopy.com/video/linguists-3) science video platform
 ##### secundaere
+[QUIDEX: schlüsselstellen](https://pages.cms.hu-berlin.de/schluesselstellen/quidex/index.html?work=Judenbuche&lang=de) HU project cross referencing secundaere
 [mediating modern poetry](https://mmp.mml.ox.ac.uk) oxford, karen leeder
 [weltliteratur](https://weltliteratur.net) :black market for the digital humanities:
 [OSF](https://osf.io) open research platform
@@ -247,11 +263,11 @@
 [EDQM](https://www.edqm.eu/en/knowledge-database) knowledge database pharmacy
 [wikipedia on greek mythology](https://de.wikipedia.org/wiki/Liste_der_Gestalten_der_griechischen_Mythologie/A)
 [pflanzenfundgrube systematisch](http://pflanzenfundgrube.zum.de/cgi-bin/show.app)
-##### LIT/ART/CON/CAL# 
+##### LIT/ART/CON/CAL 
 [HiSoN](https://hison.org) historical sociolinguistics network
 [jacobin/ada](https://jacobin.de/) socialist online magazine
 [translationista](https://translationista.com/2022/09/notes-from-the-magic-mountain-9-12-22.html) s. bernofsky
-[onur solmaz](https://solmaz.io) tech alii blog
+[onur solmaz](https://solmaz.io/frequencies-german-definite-articles) tech / LX / alii blog
 [fabrikzeitung](https://www.fabrikzeitung.ch/still-jenny-from-the-block/#) CH
 [tegel media](https://tegelmedia.net/#content)
 [serpentmagazine](https://serpentmagazine.github.io)
@@ -285,7 +301,7 @@
 [conceptual poetics day](http://www.conceptualpoeticsday.org)
 [INS berlin](http://www.necronauts.net/berlin/documents/index)
 [little STEIDL](https://littlesteidl.de/haus-fuer-einen-kunstverlag/)
-[b**books](http://www.b-books.de/share.htm)**
+[b-books](http://www.b-books.de/share.htm)
 [KP manuale](https://kirstenpalz.com/100-manual)
 [graum xyz](https://www.graum.xyz/publications/)
 [diaphanes. 100000words](http://100000words.net)
@@ -305,6 +321,4 @@
 [literaturport](https://www.literaturport.de/autorenlexikon/)
 [LCB](https://lcb.de)
 [ZK/U moabit](https://www.zku-berlin.org)
-
-### [anwesenheitsnotiz](https://anwesenheitsnotizen.wordpress.com/2020/03/25/onlinequellen%5C_fuer%5C_hausarbeiten) linksammlung für uniarbeitenvonzuhause.
-[./.work.main..(())./.](niemand-sollte-umsonst-arbeiten)
+[anwesenheitsnotiz](https://anwesenheitsnotizen.wordpress.com/2020/03/25/onlinequellen%5C_fuer%5C_hausarbeiten) linksammlung für uniarbeitenvonzuhause.
