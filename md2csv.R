@@ -44,19 +44,20 @@ l3$url[trange] = gsub("\\[(.+)\\]\\((https?:.+)\\)(.+)?", "<\\2>", tmd)
 l3$desc[trange] = gsub("\\[(.+)\\]\\((.+)\\)(.+)?", "\\3", tmd)
 }
 sum(is.na(l3$url))
-l3na<-l3[!is.na(l3$url),]
+l3na<-l3[!is.na(l3$url),1:4]
 l3nb<-l3na[l3na$url!="",]
 l3nb$url<-gsub("^<","",l3nb$url)
 l3nb$url<-gsub(">$","",l3nb$url)
-link_data <- data.frame(
-  h1 = gsub("\\[(.+)\\]\\(([^\\)].+)\\)(.+)", "\\1", links),
-  url = gsub("\\[(.+)\\]\\((.+)\\)(.+)", "<\\2>", links),
-  desc = gsub("\\[(.+)\\]\\((.+)\\)(.+)", "\\3", links),
-  stringsAsFactors = FALSE
-)
+l3nb<-l3nb[order(l3nb$title,decreasing = T),]
+# link_data <- data.frame(
+#   h1 = gsub("\\[(.+)\\]\\(([^\\)].+)\\)(.+)", "\\1", links),
+#   url = gsub("\\[(.+)\\]\\((.+)\\)(.+)", "<\\2>", links),
+#   desc = gsub("\\[(.+)\\]\\((.+)\\)(.+)", "\\3", links),
+#   stringsAsFactors = FALSE
+# )
 #link_data$further =  gsub("\\[(.+)\\]\\((.+)\\)(.+)", "\\2", link_data$desc)
-
+link_data<-l3nb
 csv_file <- "/Users/guhl/Documents/GitHub/pinghook/ids-links.csv"
 library(readr)
 write.table(link_data,file = csv_file,quote = F,sep = ";",row.names = F)
-write_csv(link_data, csv_file)
+#write_csv(link_data, csv_file)
