@@ -153,7 +153,8 @@
 [Corpus of Contemporary American English (COCA)](https://www.english-corpora.org/coca/)
 [KIDKO](https://corpora.uni-hamburg.de/annis/kidko) uni hamburg kiezdeutschcorpus
 [MERLIN](https://www.merlin-platform.eu/#) learner corpus
-[CHLG](https://www.chlg.ugent.be/corpus/) corpus of historical low german. (CQL \> [man](https://corpussearch.sourceforge.net/CS-manual/SearchFunctions.html))
+[CHLG](https://www.chlg.ugent.be/corpus/) corpus of historical low german.
+[CQL man](https://corpussearch.sourceforge.net/CS-manual/SearchFunctions.html)
 [RAE](http://corpus.rae.es/creanet.html) corpus spanisch
 [DGD](https://dgd.ids-mannheim.de/) mannheim. corpus-datenbank für gesprochenes deutsch.
 [corpora international](https://app.sketchengine.eu/#corpus?tab=basic&cat=all&sketches=0&lang=&lang2=&query=&showOld=0)

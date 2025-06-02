@@ -263,6 +263,7 @@ Ctrl+Alt+Dem;LIT/ART/CON/CAL; Jan Blommaert's research blog;https://alternative-
 CTAN: latex package index;tech;;https://ctan.org/pkg/
 CSS comp;tech;;https://developer.mozilla.org/de/docs/Web/CSS/float
 cryptpad.fr;alii;;https://cryptpad.fr
+CQL man;corpusLX;;https://corpussearch.sourceforge.net/CS-manual/SearchFunctions.html
 COST-ELTeC linktree;arkkiv;;https://lipogg.github.io/textanalyse-mit-r/exkurs-xml-tei-und-xpath.html#wo-findet-man-korpora-die-in-xml-tei-ausgezeichnet-sind
 COST-ELTeC linktree;arkkiv;;https://github.com/COST-ELTeC/ELTeC
 COST-ELTeC;arkkiv;, ;https://distantreading.github.io/ELTeC/
@@ -275,7 +276,7 @@ code script compression;tech;;https://freecodingtools.org/online-minifier/python
 CMDI maker;linguistics;;https://cmdi-maker.uni-koeln.de
 CLIO-online;secundaere; fachportal für geschichte und geschichtswissenschaften.;https://www.clio-online.de
 christina fjeldavlino;LIT/ART/CON/CAL; blog norge;https://christinafjeldavlino.home.blog
-CHLG](https://www.chlg.ugent.be/corpus/) corpus of historical low german. (CQL \> [man;corpusLX;;https://corpussearch.sourceforge.net/CS-manual/SearchFunctions.html)
+CHLG;corpusLX; corpus of historical low german.;https://www.chlg.ugent.be/corpus/
 check your habitus;LIT/ART/CON/CAL;;https://checkyourhabitus.com
 CERN;arkkiv;;http://cds.cern.ch/collection/CERN%20Archives%20Temporary?ln=de
 cdnjs;linguistics;;https://cdnjs.com/libraries/diff_match_patch
