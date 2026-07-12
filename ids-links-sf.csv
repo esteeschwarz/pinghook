@@ -160,7 +160,7 @@
 "UCSB santa barbara corpus","https://www.linguistics.ucsb.edu/research/santa-barbara-corpus","corpusLX","of spoken american english"
 "NY Times Archive","https://fu-berlin.primo.exlibrisgroup.com/permalink/49KOBV_FUB/1v1tp5h/alma9961302613102883","corpusLX","institutional account registration needed"
 "DTA","https://www.deutschestextarchiv.de/","corpusLX",""
-"BNC web","http://bncweb.lancs.ac.uk/cgi-binbncXML/BNCquery.pl?theQuery=search&urlTest=yes","corpusLX",""
+"BNC web","http://bncweb.lancs.ac.uk/cgi-binbncXML/BNCquery.pl?theQuery=search&urlTest=yes","corpusLX"," "
 "BAS clarin LMU","https://clarin.phonetik.uni-muenchen.de/BASRepository/","corpusLX","archive for speech signals, institutszugang"
 "MoCoDa","http://mocoda.spracheinteraktion.de/?site=suche","corpusLX",""
 "MoCoDa actuel","https://db.mocoda2.de/c/home","corpusLX","mobile communication database"
